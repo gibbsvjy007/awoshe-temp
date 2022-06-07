@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>771767857640-uj0ml0e6vh90ah9734vtlicupr722iks.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.771767857640-uj0ml0e6vh90ah9734vtlicupr722iks</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>771767857640-jdtihs0ou6duubid2e3g56ljbvo25493.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCe50v_AlIxqhJgTNZlIpbqv_Y0MeHhpsg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>771767857640</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.awoshe.mobile.live</string>
+	<key>PROJECT_ID</key>
+	<string>awoshe-live</string>
+	<key>STORAGE_BUCKET</key>
+	<string>awoshe-live.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:771767857640:ios:c345034abdd5ffe9</string>
+	<key>DATABASE_URL</key>
+	<string>https://awoshe-live.firebaseio.com</string>
+</dict>
+</plist>

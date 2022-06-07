@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "452315299599",
+    "firebase_url": "https://awoshe-v2.firebaseio.com",
+    "project_id": "awoshe-v2",
+    "storage_bucket": "awoshe-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452315299599:android:4567e85ce8a09c9e",
+        "android_client_info": {
+          "package_name": "com.awoshe.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452315299599-2363quacu70arae1e55r7fa574aitl96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDznCYHqd5tnaTG7fzJDoLWFr8E41sTF_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452315299599-2363quacu70arae1e55r7fa574aitl96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

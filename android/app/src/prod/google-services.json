@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "771767857640",
+    "firebase_url": "https://awoshe-live.firebaseio.com",
+    "project_id": "awoshe-live",
+    "storage_bucket": "awoshe-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771767857640:android:c345034abdd5ffe9",
+        "android_client_info": {
+          "package_name": "com.awoshe.mobile.live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771767857640-2cho23ofo6sklvp2kesbc04hocnteg7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-b_O1PcyF-9bS7iLUti3eaIsnUry21Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771767857640-2cho23ofo6sklvp2kesbc04hocnteg7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,128 @@
+{
+  "categories": {
+
+    "0c40OHM7VE2OaUONMYGH": {
+      "parentName": "men accessories",
+      "status": "active",
+      "title": "slippers",
+      "identifier": "slippers",
+      "parent": "LCKIuU5V04UeBguIE0Xb"
+    },
+
+    "0nCtDpu1F7BGKhMyy01c": {
+      "parentName": "women accessories",
+      "parent": "HBQuGR1CziGHXGQyqj2p",
+      "status": "active",
+      "title": "slippers",
+      "identifier": "slippers"
+    },
+
+
+    "DKB2xRwXTAx5UOc3ItIn": {
+      "parentName": "men accessories",
+      "parent": "LCKIuU5V04UeBguIE0Xb",
+      "status": "active",
+      "title": "belts and suspenders",
+      "identifier": "belts and suspenders"
+    },
+
+
+    "Hjw7AGqig8UDq8qBvrdA": {
+      "parent": "HBQuGR1CziGHXGQyqj2p",
+      "status": "active",
+      "title": "bracelets",
+      "identifier": "bracelets",
+      "parentName": "women accessories"
+    },
+
+    "IyZu8zHtAjqUTSWa8Xef": {
+      "status": "active",
+      "title": "rings",
+      "identifier": "rings",
+      "parentName": "women accessories",
+      "parent": "HBQuGR1CziGHXGQyqj2p"
+    },
+
+    "Zxz4wqIRq3RmtDjud9CA": {
+      "parentName": "women accessories",
+      "parent": "HBQuGR1CziGHXGQyqj2p",
+      "status": "active",
+      "title": "shoes",
+      "identifier": "shoes"
+    },
+
+    "bz8MzrHQ8R3AkKjOyXlR": {
+      "parentName": "women accessories",
+      "parent": "HBQuGR1CziGHXGQyqj2p",
+      "status": "active",
+      "title": "watches",
+      "identifier": "watches"
+    },
+
+    "clGDuOgVmd29lXIGhxOr": {
+      "parentName": "women accessories",
+      "parent": "HBQuGR1CziGHXGQyqj2p",
+      "status": "active",
+      "title": "others",
+      "identifier": "other"
+    },
+
+    "eaIhC7hbRrDFZUSOzZxk": {
+      "parentName": "women accessories",
+      "parent": "HBQuGR1CziGHXGQyqj2p",
+      "status": "active",
+      "title": "scandals",
+      "identifier": "scandals"
+    },
+
+    "gpiySGCM4R6EcbyNQSeT": {
+      "parentName": "fabric",
+      "parent": "CpCvBxp2O62c4oGKneiK",
+      "status": "active",
+      "title": "fabric",
+      "identifier": "fabric"
+    },
+
+
+    "nGLRt352VUwnBorbWsiv": {
+      "parent": "LCKIuU5V04UeBguIE0Xb",
+      "status": "active",
+      "title": "bags",
+      "identifier": "bags",
+      "parentName": "men accessories"
+    },
+
+    "oiKPgdYY8Xn5WYxcUs9r": {
+      "status": "active",
+      "title": "ear rings",
+      "identifier": "ear rings",
+      "parentName": "women accessories",
+      "parent": "HBQuGR1CziGHXGQyqj2p"
+    },
+
+    "ppH0gTcs11gvg0oAcMng": {
+      "parentName": "men accessories",
+      "parent": "LCKIuU5V04UeBguIE0Xb",
+      "status": "active",
+      "title": "others",
+      "identifier": "others"
+    },
+
+    "ulM1UaYKwmXwx6acgYJr": {
+      "parentName": "women accessories",
+      "parent": "HBQuGR1CziGHXGQyqj2p",
+      "status": "active",
+      "title": "necklaces",
+      "identifier": "necklaces"
+    },
+
+    "wzqlJp5Tkw9HABttnCXa": {
+      "status": "active",
+      "title": "ties",
+      "identifier": "ties",
+      "parentName": "men accessories",
+      "parent": "LCKIuU5V04UeBguIE0Xb"
+    }
+
+  }
+}

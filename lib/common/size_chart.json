@@ -1,0 +1,560 @@
+{
+  "sizeChartMapping": {
+    "0": {
+      "0": {
+        "type": "tops",
+        "fit": [],
+        "guide": ["<h3>chest</h3><p>Measure under your arms around the fullest part of your chest.</p><h3>arm length</h3><p>Bend your elbow 90 degrees and place your hand on your hip. Hold the tape at the center back of your neck. Measure across your shoulder to your elbow and down to your wrist. The total length is your arm length.</p><h3>neck</h3><p>Measure around the middle of your neck (at the Adam’s apple), keeping tape a bit loose.</p><h3>waist</h3><p>Measure around your natural waistline, keeping the tape a bit loose.</p>"],
+        "subtype": ["regular", "slim", "tall"],
+        "regular": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Chest", "Neck", "Waist", "Arm Length"], ["XS", "32-34", "13-13.5", "26-28", "31-32"], ["S", "35-37", "14-14.5", "29-31", "32-33"], ["M", "38-40", "15-15.5", "32-34", "33-34"], ["L", "41-43", "16-16.5", "35-37", "34-35"], ["XL", "44-46", "17-17.5", "38-40", "35-36"], ["XXL", "47-49", "18-18.5", "41-43", "36-36.5"]],
+          "metric": [["Size (US)", "Chest", "Neck", "Waist", "Arm Length"], ["XS", "81-86", "33-34", "66-71", "79-81"], ["S", "89-94", "36-37", "74-79", "81-84"], ["M", "97-102", "38-39", "81-86", "84-86"], ["L", "104-109", "41-42", "89-94", "86-89"], ["XL", "112-117", "43-44", "97-102", "89-91.5"], ["XXL", "119-124.5", "46-47", "104-109", "91.5-93"]]
+        },
+        "slim": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Chest", "Neck", "Waist", "Arm Length"], ["XS", "32-34", "13-13.5", "26-28", "31-32"], ["S", "35-37", "14-14.5", "29-31", "32-33"], ["M", "38-40", "15-15.5", "32-34", "33-34"], ["L", "41-43", "16-16.5", "35-37", "34-35"], ["XL", "44-46", "17-17.5", "38-40", "35-36"], ["XXL", "47-49", "18-18.5", "41-43", "36-36.5"]],
+          "metric": [["Size (US)", "Chest", "Neck", "Waist", "Arm Length"], ["XS", "81-86", "33-34", "66-71", "79-81"], ["S", "89-94", "36-37", "74-79", "81-84"], ["M", "97-102", "38-39", "81-86", "84-86"], ["L", "104-109", "41-42", "89-94", "86-89"], ["XL", "112-117", "43-44", "97-102", "89-91.5"], ["XXL", "119-124.5", "46-47", "104-109", "91.5-93"]]
+        },
+        "tall": {
+          "subtype_text": "Tall sizes recommended for men 6'0\"-6'3\". Garment body and sleeve lengths are 2\" longer than regular / slim sizes. Catalog/jcrew.com only.",
+          "nonmetric": [["Size (US)", "Chest", "Neck", "Waist", "Arm Length"], ["S", "35-37", "14-14.5", "29-31", "34-35"], ["M", "38-40", "15-15.5", "32-34", "35-36"], ["L", "41-43", "16-16.5", "35-37", "36-37"], ["XL", "44-46", "17-17.5", "38-40", "37-38"]],
+          "metric": [["Size (US)", "Chest", "Neck", "Waist", "Arm Length"], ["S", "89-94", "36-37", "74-79", "86-89"], ["M", "97-102", "38-39", "81-86", "89-91.5"], ["L", "104-109", "41-42", "89-94", "91.5-94"], ["XL", "112-117", "43-44", "97-102", "94-96.5"]]
+        },
+        "conversion": ["top_conversion"],
+        "top_conversion": {
+          "text": "tops",
+          "table": [["Size (US)", "UK", "EU", "Japan"], [34, 34, 44, "XS"], [36, 36, 46, "S"], [38, 38, 48, "M"], [40, 40, 50, "L"], [42, 42, 52, "L"], [44, 44, 54, "LL"], [46, 46, 56, "LL"]]
+        }
+      },
+      "1": {
+        "type": "bottoms",
+        "fit": [],
+        "guide": ["<h3>waist</h3><p>Measure around your natural waistline, keeping the tape a bit loose.</p><h3>inseam</h3><p>Wearing pants that fit well, measure from the crotch seam to the bottom of the leg.</p>"],
+        "subtype": ["regular"],
+        "regular": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Waist (US)"], ["XS", "26-28"], ["S", "29-31"], ["M", "32-34"], ["L", "35-37"], ["XL", "38-40"], ["XXL", "41-43"]],
+          "metric": [["Size (US)", "Waist (US)"], ["XS", "66-71"], ["S", "74-79"], ["M", "81-86"], ["L", "89-94"], ["XL", "97-101"], ["XXL", "104-109"]]
+        },
+        "conversion": ["bottoms_conversion"],
+        "bottoms_conversion": {
+          "text": "bottoms",
+          "table": [["US Size", "Waist", "UK", "France", "EU", "Japan"], ["XS", 28, 28, 39, 71, 71], ["S", 29, 29, 40, 74, 74], ["S", 30, 30, 41, 76, 76], ["S", 31, 31, 42, 79, 79], ["M", 32, 32, 43, 81, 81], ["M", 33, 33, 44, 84, 84], ["M", 34, 34, 45, 86, 86], ["L", 35, 35, 46, 89, 89], ["L", 36, 36, 47, 91, 91], ["XL", 38, 38, 48, 97, 97], ["XL", 40, 40, 50, 102, 102]]
+        }
+      },
+      "2": {
+        "type": "shoes",
+        "fit": [],
+        "guide": [],
+        "subtype": [],
+        "conversion": ["shoes_conversion", "slippers_conversion", "sneakers_conversion"],
+        "shoes_conversion": {
+          "text": "shoes",
+          "table": [["US Size", "UK Size", "EU Size", "Japan Size"], [7, 6, 40, 26], ["7H", 6.5, 40.5, 26.5], [8, 7, 41, 27], ["8H", 7.5, 41.5, 27.5], [9, 8, 42, 28], ["9H", 8.5, 42.5, 28.5], [10, 9, 43, 29], ["10H", 9.5, 43.5, 29.5], [11, 10, 44, 30], ["11H", 10.5, 44.5, 30.5], [12, 11, 45, 31], ["12H", 11.5, 45.5, 31.5], [13, 12, 46, 32]]
+        },
+        "slippers_conversion": {
+          "text": "slippers / scuffs",
+          "table": [["US Size", "US", "UK", "EU", "Japan"], ["S", "7-8", "6-7", "39-40.5", "25.5-26.5"], ["M", "9-10", "8-9", "42-43", "27.5-28.5"], ["L", "11-12", "10-11", "44.5-46", "29.5-30.5"], ["XL", 13, 12, 47, "----"]]
+        },
+        "sneakers_conversion": {
+          "text": "sneakers",
+          "table": [["US Size", "UK", "US Child/Men", "US Women", "EU", "Japan"], [41, 7.5, 8, 9, 41, 26], [42, 8, 8.5, 9.5, 42, 26.5], [43, 9, 9.5, "--", 43, 27.5], [44, 9.5, 10, "--", 44, 28], [45, 10.5, 11, "--", 45, 29], [46, 11, 11.5, "--", 46, 29.5]]
+        }
+      },
+      "3": {
+        "type": "accessories",
+        "fit": [],
+        "guide": [],
+        "subtype": ["hats", "gloves"],
+        "hats": {
+          "subtype_text": "Measure around your head where the hat would fit comfortably.",
+          "nonmetric": [["Size (US)", "Head Size", "Hat Size"], ["S", "21 1/8-21 1/2", "6 3/4-6 7/8"], ["M", "21 7/8-22 1/4", "7-7 1/8"], ["L", "22 5/8-23", "7 1/4-7 3/8"], ["XL", "23 1/2-23 7/8", "7 1/2-7 5/8"]],
+          "metric": [["Size (US)", "Head Size", "Hat Size"], ["S", "53.5-54.5", "17.25-17.5"], ["M", "55.5-56.5", "17.75-18"], ["L", "57.5-58.5", "18.5-18.75"], ["XL", "59.5-60.5", "19-19.5"]]
+        },
+        "gloves": {
+          "subSubType": "gloves",
+          "subtype_text": "Measure around your hand at the widest point excluding the thumb.",
+          "metric": [
+            {
+              "country": "US",
+              "data": [["Size (US)", "Hand Measurement"], ["S", 20], ["M", "21.5-23"], ["L", "24-25"], ["XL", "26.5-28"]]
+            },
+            {
+              "country": "UK",
+              "data": [["Size (US)", "Hand Measurement"], ["S", 20], ["M", "21.5-23"], ["L", "24-25"], ["XL", "26.5-28"]]
+            }
+          ],
+          "nonmetric": [["Size (US)", "Hand Measurement"], ["S", 8], ["M", "8 1/2-9"], ["L", "9 1/2-10"], ["XL", "10 1/2-11"]],
+          "metric": [["Size (US)", "Hand Measurement"], ["S", 20], ["M", "21.5-23"], ["L", "24-25"], ["XL", "26.5-28"]]
+        },
+        "conversion": ["belts_conversion"],
+        "belts_conversion": {
+          "text": "belts",
+          "table": [["Pant Size (US)", "Belt Size", "Belt size", "Belt size"], [28, 30, "S", "S/M"], [30, 32, "S", "S/M"], [32, 34, "S or M", "S/M"], [34, 36, "M", "S/M or L/XL"], [36, 38, "L", "L/XL"], [38, 40, "L", "L/XL"], [40, "----", "XL", "L/XL"], [42, "----", "XL", "L/XL"]]
+        }
+      },
+      "4": {
+        "type": "outerwear",
+        "fit": [],
+        "guide": ["<h3>chest</h3><p>Measure under your arms around the fullest part of your chest.</p><h3>arm length</h3><p>Bend your elbow 90 degrees and place your hand on your hip. Hold the tape at the center back of your neck. Measure across your shoulder to your elbow and down to your wrist. The total length is your arm length.</p><h3>neck</h3><p>Measure around the middle of your neck (at the Adam’s apple), keeping tape a bit loose.</p><h3>waist</h3><p>Measure around your natural waistline, keeping the tape a bit loose.</p>"],
+        "subtype": ["regular", "tall"],
+        "regular": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Chest", "Waist (US)", "Arm Length"], ["XS", "32-34", "26-28", "31-32"], ["S", "35-37", "29-31", "32-33"], ["M", "38-40", "32-34", "33-34"], ["L", "41-43", "35-37", "34-35"], ["XL", "44-46", "38-40", "35-36"], ["XXL", "47-49", "41-43", "36-36.5"]],
+          "metric": [["Size (US)", "Chest", "Waist (US)", "Arm Length"], ["XS", "81-86", "66-71", "79-81"], ["S", "89-94", "74-79", "81-84"], ["M", "97-102", "81-86", "84-86"], ["L", "104-109", "89-94", "86-89"], ["XL", "112-117", "97-102", "89-91.5"], ["XXL", "119-124.5", "104-109", "91.5-93"]]
+        },
+        "tall": {
+          "subtype_text": "Tall sizes recommended for men 6'0\"-6'3\". Garment body and sleeve lengths are 2\" longer than regular / slim sizes. Catalog/jcrew.com only.",
+          "nonmetric": [["Size (US)", "Chest", "Waist", "Arm Length"], ["XS", "32-34", "26-28", "32-33"], ["S", "35-37", "29-31", "33-34"], ["M", "38-40", "32-34", "34-35"], ["L", "41-43", "35-37", "35-36"], ["XL", "44-46", "38-40", "36-37"], ["XXL", "47-49", "41-43", "37-37.5"]],
+          "metric": [["Size (US)", "Chest", "Waist", "Arm Length"], ["XS", "81-86", "66-71", "81-84"], ["S", "89-94", "74-79", "84-86"], ["M", "97-102", "81-86", "86-89"], ["L", "104-109", "89-94", "89-91.5"], ["XL", "112-117", "97-102", "91.5-94"], ["XXL", "119-124.5", "104-109", "94-95"]]
+        },
+        "conversion": ["outerwear_conversion"],
+        "outerwear_conversion": {
+          "text": "outerwear",
+          "table": [["Size (US)", "Numeric Size (US)", "UK", "EU", "Japan"], ["XS", 34, 34, 44, "XS"], ["S", 36, 36, 46, "S"], ["M", 38, 38, 48, "M"], ["M", 40, 40, 50, "L"], ["L", 42, 42, 52, "L"], ["XL", 44, 44, 54, "LL"], ["XL", 46, 46, 56, "LL"]]
+        }
+      },
+      "5": {
+        "type": "suiting",
+        "fit": [],
+        "guide": ["<h3>chest</h3><p>Measure under your arms around the fullest part of your chest.</p><h3>arm length</h3><p>Bend your elbow 90 degrees and place your hand on your hip. Hold the tape at the center back of your neck. Measure across your shoulder to your elbow and down to your wrist. The total length is your arm length.</p><h3>neck</h3><p>Measure around the middle of your neck (at the Adam’s apple), keeping tape a bit loose.</p><h3>waist</h3><p>Measure around your natural waistline, keeping the tape a bit loose.</p>"],
+        "subtype": ["regular", "short", "long"],
+        "regular": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Chest", "Waist", "Arm Length"], ["XS", "32-34", "26-28", "31-32"], ["S", "35-37", "29-31", "32-33"], ["M", "38-40", "32-34", "33-34"], ["L", "41-43", "35-37", "34-35"], ["XL", "44-46", "38-40", "35-36"], ["XXL", "47-49", "41-43", "36-36.5"]],
+          "metric": [["Size (US)", "Chest", "Waist", "Arm Length"], ["XS", "81-86", "66-71", "79-81"], ["S", "89-94", "74-79", "81-84"], ["M", "97-102", "81-86", "84-86"], ["L", "104-109", "89-94", "86-89"], ["XL", "112-117", "97-102", "89-91.5"], ["XXL", "119-124.5", "104-109", "91.5-93"]]
+        },
+        "short": {
+          "subtype_text": "Short sizes recommended for men 5'7\"-5'10\". Garment body length is 11⁄4\" shorter and sleeve length is 1\" shorter than regular sizes. Catalog/jcrew.com only.",
+          "nonmetric": [["Size (US)", "Chest", "Waist", "Arm Length"], ["XS", "32-34", "26-28", "30-31"], ["S", "35-37", "29-31", "31-32"], ["M", "38-40", "32-34", "32-33"], ["L", "41-43", "35-37", "33-34"], ["XL", "44-46", "38-40", "34-35"], ["XXL", "47-49", "41-43", "35-35.5"]],
+          "metric": [["Size (US)", "Chest", "Waist", "Arm Length"], ["XS", "81-86", "66-71", "76-79"], ["S", "89-94", "74-79", "79-81"], ["M", "97-102", "81-86", "81-84"], ["L", "104-109", "89-94", "84-86"], ["XL", "112-117", "97-102", "86-89"], ["XXL", "119-124.5", "104-109", "89-90"]]
+        },
+        "long": {
+          "subtype_text": "Long sizes recommended for men 6'0\"-6'3\". Garment body length is 11⁄4\" longer and sleeve length is 1\" longer than regular sizes. Catalog/jcrew.com only.",
+          "nonmetric": [["Size (US)", "Chest", "Waist", "Arm Length"], ["XS", "32-34", "26-28", "32-33"], ["S", "35-37", "29-31", "33-34"], ["M", "38-40", "32-34", "34-35"], ["L", "41-43", "35-37", "35-36"], ["XL", "44-46", "38-40", "36-37"], ["XXL", "47-49", "41-43", "37-37.5"]],
+          "metric": [["Size (US)", "Chest", "Waist", "Arm Length"], ["XS", "81-86", "66-71", "81-84"], ["S", "89-94", "74-79", "84-86"], ["M", "97-102", "81-86", "86-89"], ["L", "104-109", "89-94", "89-91.5"], ["XL", "112-117", "97-102", "91.5-94"], ["XXL", "119-124.5", "104-109", "94-95"]]
+        },
+        "conversion": ["jacket_conversion", "pants_conversion"],
+        "jacket_conversion": {
+          "text": "jacket sizing",
+          "table": [["Size (US)", "UK", "EU", "Japan"], [34, 34, 44, "XS"], [36, 36, 46, "S"], [38, 38, 48, "M"], [40, 40, 50, "L"], [42, 42, 52, "L"], [44, 44, 54, "XL"], [46, 46, 56, "XL"]]
+        },
+        "pants_conversion": {
+          "text": "pants sizing",
+          "table": [["Size (US)", "Waist", "UK", "France", "EU", "Japan"], ["XS", 28, 28, 39, 71, 71], ["S", 29, 29, 40, 74, 74], ["S", 30, 30, 41, 76, 76], ["S", 31, 31, 42, 79, 79], ["M", 32, 32, 43, 81, 81], ["M", 33, 33, 44, 84, 84], ["M", 34, 34, 45, 86, 86], ["L", 35, 35, 46, 89, 89], ["L", 36, 36, 47, 91, 91], ["XL", 38, 38, 48, 97, 97], ["XL", 40, 40, 50, 102, 102]]
+        }
+      },
+      "category": "men"
+    },
+    "1": {
+      "0": {
+        "type": "tops",
+        "fit": [],
+        "guide": ["<h3>bust</h3><p>Measure under your arms, around the fullest part of your chest.</p><h3>waist</h3><p>Measure around your natural waistline, keeping the tape a bit loose.</p>"],
+        "subtype": ["regular", "petite", "tall"],
+        "regular": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Numeric Size (US)", "Bust", "Natural Waist"], ["XXXS", "000", 31, 23], ["XXS", "00", 32, 24], ["XS", "0", 33, 25], ["XS", "2", 34, 26], ["S", "4", 35, 27], ["S", "6", 36, 28], ["M", "8", 37, 29], ["M", "10", 38, 30], ["L", "12", 39.5, 31.5], ["L", "14", 41, 33], ["XL", "16", 43.5, 35.5], ["XXL / 1X", "18", 46, 38], ["2X", "20", 48.5, 40.5], ["3X", "22", 51, 43], ["3X", "24", 53.5, 45.5]],
+          "metric": [["Size (US)", "Numeric Size (US)", "Bust", "Natural Waist"], ["XXXS", "000", 79, 58.5], ["XXS", "00", 81, 61], ["XS", "0", 84, 63.5], ["XS", "2", 86, 66], ["S", "4", 89, 68.5], ["S", "6", 91.5, 71], ["M", "8", 94, 73.5], ["M", "10", 96.5, 76], ["L", "12", 100.5, 80], ["L", "14", 104, 84], ["XL", "16", 110.5, 87.5], ["XXL / 1X", "18", 117, 96.5], ["2X", "20", 123, 103], ["3X", "22", 129.5, 109], ["3X", "24", 136, 115.5]]
+        },
+        "petite": {
+          "subtype_text": "Petite sizes, recommended for women 5'0\"-5'4\", have a reduced sleeve and torso length to better fit smaller frames. Catalog/jcrew.com, and selected stores only.",
+          "nonmetric": [["Size (US)", "Numeric Size (US)", "Bust", "Natural Waist"], ["XXS", "00", 30.5, 23], ["XS", "0", 31.5, 24], ["XS", "2", 32.5, 25], ["S", "4", 33.5, 26], ["S", "6", 34.5, 27], ["M", "8", 35.5, 28], ["M", "10", 36.5, 29], ["L", "12", 38, 30.5]],
+          "metric": [["Size (US)", "Numeric Size (US)", "Bust", "Natural Waist"], ["XXS", "00", 77.5, 58.5], ["XS", "0", 80, 61], ["XS", "2", 82.5, 64], ["S", "4", 85, 66], ["S", "6", 87.5, 68.5], ["M", "8", 90, 71], ["M", "10", 92.5, 73.5], ["L", "12", 97, 77.5]]
+        },
+        "tall": {
+          "subtype_text": "Tall sizes recommended for women 5'9\"-6'0\". Catalog/jcrew.com only.",
+          "nonmetric": [["Size (US)", "Numeric Size (US)", "Bust", "Natural Waist"], ["XXS", "00", 31.5, 24], ["XS", "0", 32.5, 25], ["XS", "2", 33.5, 26], ["S", "4", 34.5, 27], ["S", "6", 35.5, 28], ["M", "8", 36.5, 29], ["M", "10", 37.5, 30], ["L", "12", 39, 31.5], ["L", "14", 40.5, 33], ["XL", "16", 42, 34.5], ["XXL", "18", 43.5, 36]],
+          "metric": [["Size (US)", "Numeric Size (US)", "Bust", "Natural Waist"], ["XXS", "00", 80, 61], ["XS", "0", 82.5, 63.5], ["XS", "2", 85, 66], ["S", "4", 87.5, 68.5], ["S", "6", 90, 71], ["M", "8", 93, 73.5], ["M", "10", 95.5, 76], ["L", "12", 99, 80], ["L", "14", 103, 84], ["XL", "16", 106.5, 87.5], ["XXL", "18", 110.5, 91.5]]
+        },
+        "conversion": ["tops_conversion"],
+        "tops_conversion": {
+          "text": "tops",
+          "table": [["Size (US)", "Numeric Size (US)", "UK", "Germany", "France", "Italy", "Spain", "Japan", "Australia"], ["XXXS", "000", 0, 24, 28, 32, 26, 1, 0], ["XXS", "00", 2, 26, 30, 34, 28, 1, 2], ["XS", "0", 4, 28, 32, 36, 30, 3, 4], ["XS", "2", 6, 30, 34, 38, 32, 5, 6], ["S", "4", 8, 34, 36, 40, 34, 7, 8], ["S", "6", 10, 34, 38, 42, 36, 9, 10], ["M", "8", 12, 36, 40, 44, 38, 11, 12], ["M", "10", 14, 38, 42, 46, 40, 13, 14], ["L", "12", 16, 40, 44, 48, 42, 15, 16], ["L", "14", 18, 42, 46, 50, 44, 17, 18], ["XL", "16", 20, 44, 48, 52, 46, 19, 20], ["XL", "18", 22, 46, 50, 54, 48, 21, 22], ["XXL", "20", 24, 48, 52, 56, 50, 23, 24]]
+        }
+      },
+      "1": {
+        "type": "bottoms",
+        "fit": [],
+        "guide": ["<h3>hips</h3><p>Measure around the fullest part of your body at the top of your leg.</p><h3>waist</h3><p>Measure around your natural waistline, keeping the tape a bit loose.</p><h3>inseam</h3><p>Wearing pants that fit well, measure from the crotch seam to the bottom of the leg.</p>"],
+        "subtype": ["regular", "petite", "tall", "short"],
+        "regular": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Numeric Size (US)", "Natural Waist", "Hip"], ["XXXS", "000", 23, 33], ["XXS", "00", 24, 34], ["XS", "0", 25, 35], ["XS", "2", 26, 36], ["S", "4", 27, 37], ["S", "6", 28, 38], ["M", "8", 29, 39], ["M", "10", 30, 40], ["L", "12", 31.5, 41.5], ["L", "14", 33, 43], ["XL", "16", 35.5, 45.5], ["XXL / 1X", "18", 38, 48], ["2X", "20", 40.5, 50.5], ["3X", "22", 43, 53], ["3X", "24", 45.5, 55.5]],
+          "metric": [["Size (US)", "Numeric Size (US)", "Natural Waist", "Hip"], ["XXXS", "000", 58.5, 84], ["XXS", "00", 62, 86.5], ["XS", "0", 64, 89], ["XS", "2", 66, 91.5], ["S", "4", 68.5, 94], ["S", "6", 71, 97], ["M", "8", 73.5, 99], ["M", "10", 76, 101.5], ["L", "12", 80, 105.5], ["L", "14", 84, 109], ["XL", "16", 94, 115.5], ["XXL / 1X", "18", 96.5, 122], ["2X", "20", 103, 128], ["3X", "22", 109, 134.5], ["3X", "24", 115.5, 141]]
+        },
+        "tall": {
+          "subtype_text": "Tall sizes recommended for women 5'9\"-6'0\". Catalog/jcrew.com only.",
+          "nonmetric": [["Size (US)", "Numeric Size (US)", "Natural Waist", "Hip"], ["XXS", "00", 24, 34], ["XS", "0", 25, 35], ["XS", "2", 26, 36], ["S", "4", 27, 37], ["S", "6", 28, 38], ["M", "8", 29, 39], ["M", "10", 30, 40], ["L", "12", 31.5, 41.5], ["L", "14", 33, 43], ["XL", "16", 34.5, 44.5]],
+          "metric": [["Size (US)", "Numeric Size (US)", "Natural Waist", "Hip"], ["XXS", "00", 62, 86.5], ["XS", "0", 64, 89], ["XS", "2", 66, 91.5], ["S", "4", 68.5, 94], ["S", "6", 71, 97], ["M", "8", 73.5, 99], ["M", "10", 76, 101.5], ["L", "12", 80, 105.5], ["L", "14", 84, 109], ["XL", "16", 88, 113]]
+        },
+        "short": {
+          "subtype_text": "Short sizes recommended for women who only want a shorter inseam (2\" shorter), not a smaller overall cut.",
+          "nonmetric": [["Size (US)", "Numeric Size (US)", "Natural Waist", "Hip"], ["XS", "0", 25, 35], ["XS", "2", 26, 36], ["S", "4", 27, 37], ["S", "6", 28, 38], ["M", "8", 29, 39], ["M", "10", 30, 40], ["L", "12", 31.5, 41.5], ["L", "14", 33, 43], ["XL", "16", 34.5, 44.5]],
+          "metric": [["Size (US)", "Numeric Size (US)", "Natural Waist", "Hip"], ["XS", "0", 64, 89], ["XS", "2", 66, 91.5], ["S", "4", 68.5, 94], ["S", "6", 71, 97], ["M", "8", 73.5, 99], ["M", "10", 76, 101.5], ["L", "12", 80, 105.5], ["L", "14", 84, 109], ["XL", "16", 88, 113]]
+        },
+        "petite": {
+          "subtype_text": "Petite sizes recommended for women 5'0\"-5'4\". Catalog/jcrew.com only.",
+          "nonmetric": [["Numeric Size (US)", "Natural Waist", "Hip"], ["00", 23, 33], ["0", 24, 34], ["2", 25, 35], ["4", 26, 36], ["6", 27, 37], ["8", 28, 38], ["10", 29, 39], ["12", 30.5, 40.5]],
+          "metric": [["Numeric Size (US)", "Natural Waist", "Hip"], ["00", 58.5, 84], ["0", 61, 86], ["2", 64, 89], ["4", 66, 91.5], ["6", 68.5, 94], ["8", 71, 97], ["10", 73.5, 99], ["12", 77.5, 103]]
+        },
+        "conversion": ["bottoms_conversion"],
+        "bottoms_conversion": {
+          "text": "bottoms",
+          "table": [["SIZE (US)", "Nummeric Size (US)", "UK", "Germany", "France", "Italy", "Spain", "Japan", "Australia"], ["XXXS", "000", 0, 24, 28, 32, 26, 1, 0], ["XXS", "00", 2, 26, 30, 34, 28, 1, 2], ["XS", 0, 4, 28, 32, 36, 30, 3, 4], ["XS", 2, 6, 30, 34, 38, 32, 5, 6], ["S", 4, 8, 34, 36, 40, 34, 7, 8], ["S", 6, 10, 34, 38, 42, 36, 9, 10], ["M", 8, 12, 36, 40, 44, 38, 11, 12], ["M", 10, 14, 38, 42, 46, 40, 13, 14], ["L", 12, 16, 40, 44, 48, 42, 15, 16], ["L", 14, 18, 42, 46, 50, 44, 17, 18], ["XL", 16, 20, 44, 48, 52, 46, 19, 20], ["XL", 18, 22, 46, 50, 54, 48, 21, 22], ["XXL", 20, 24, 48, 52, 56, 50, 23, 24]]
+        }
+      },
+      "2": {
+        "type": "swim",
+        "fit": [{
+          "id": 0,
+          "text": "tops",
+          "markup": "<p>No matter what your shape (or what shape you’re in), our mix-and-matchable swim collection makes shopping easy. We even sell our two-pieces separately, so if you’re bigger on top (or vice versa) you can find just the right amount of coverage. Need more help? Contact our swim experts by calling 800 261 7422 or emailing <a href='mailto:erica@jcrew.com'>erica@jcrew.com</a>.</p><img alt='' src='/next-static/images/jcrew/sizechart/swim/img8_halter.jpg'><h3>halter</h3><p class='fit-text'>Ties at the neck and back for a customized fit. Available in D-cup sizes.</p><img alt='' src='/next-static/images/jcrew/sizechart/swim/img9_bandeau.jpg'><h3>bandeau</h3><p class='fit-text'>Comes with removable halter straps and fastens in the back with a tie or a hook. All have boning at the sides for optimal support.</p><img alt='' src='/next-static/images/jcrew/sizechart/swim/img10_string_top.jpg'><h3>string top</h3><p class='fit-text'>Features adjustable straps that tie at the neck and back, plus removable padding.</p><img alt='' src='/next-static/images/jcrew/sizechart/swim/img11_underwire.jpg'><h3>underwire</h3><p class='fit-text'>Features boning at the sides for extra support and adjustable straps for a customized fit. Hook closure. Available in D-cup sizes.</p><img alt='' src='/next-static/images/jcrew/sizechart/swim/img12_tanktop.jpg'><h3>tank top</h3><p class='fit-text'>Features classic shoulder straps, with a sturdy seam under the bust for added support. Hits at the hip for maximum coverage. Available in D-cup sizes.</p>"
+        }, {
+          "id": 1,
+          "text": "bottoms",
+          "markup": "<img alt='' class='swim__bottom-type--img' src='/next-static/images/jcrew/sizechart/swim/img0_brief.jpg'><h3 class='swim__bottom-type--text'>brief</h3><p class='fit-text'>Our most classic cut. Sits above the hips (just below the navel) and offers maximum coverage in front and back.</p><img alt='' class='swim__bottom-type--img' src='/next-static/images/jcrew/sizechart/swim/img1_bikini.jpg'><h3 class='swim__bottom-type--text'>bikini</h3><p class='fit-text'>Featuring clean lines and a mid-rise cut that sits on the hips. Offers full back coverage—just a bit less than the brief.</p><img alt='' class='swim__bottom-type--img' src='/next-static/images/jcrew/sizechart/swim/img2_itsy_bitsy.jpg'><h3 class='swim__bottom-type--text'>itsy-bitsy hipster</h3><p class='fit-text'>One of our newest styles, with minimal coverage. Sits low on the hips (a few inches below the navel) with minimal back coverage.</p><img alt='' class='swim__bottom-type--img' src='/next-static/images/jcrew/sizechart/swim/img3_lowrider.jpg'><h3 class='swim__bottom-type--text'>lowrider</h3><p class='fit-text'>Sits low on the hips (a few inches below the navel) for moderate front and full back coverage.</p><img alt='' class='swim__bottom-type--img' src='/next-static/images/jcrew/sizechart/swim/img4_string.jpg'><h3 class='swim__bottom-type--text'>string</h3><p class='fit-text'>A classic silhouette, with adjustable side ties. Sits low on the hips (a few inches below the navel) and offers moderate back and minimal front coverage.</p><img alt='' class='swim__bottom-type--img' src='/next-static/images/jcrew/sizechart/swim/img5_shorts.jpg'><h3 class='swim__bottom-type--text'>short</h3><p class='fit-text'>Our beloved boy short, with a mid-rise cut that sits on the hips. Has maximum front and back coverage.</p><img alt='' class='swim__bottom-type--img' src='/next-static/images/jcrew/sizechart/swim/img6_skirt.jpg'><h3 class='swim__bottom-type--text'>skirt</h3><p class='fit-text'>A swingy silhouette, with a bikini underneath, that provides maximum coverage. The flattering ruched waistband sits on the hips.</p><img alt='' class='swim__bottom-type--img' src='/next-static/images/jcrew/sizechart/swim/img7_highwaisted_brief.jpg'><h3 class='swim__bottom-type--text'>high-waisted brief</h3><p class='fit-text'>One of our newest styles, featuring a higher rise for a retro-inspired fit. Styled with pinup-perfect proportions for flattering fuller coverage.</p>"
+        }, {
+          "id": 2,
+          "text": "one pieces",
+          "markup": "<img alt='' class='swim__onepiece-type--img' src='/next-static/images/jcrew/sizechart/swim/img13_classic_halter_tank.jpg'><h3 class='swim__onepiece-type--text'>classic halter tank</h3><p class='fit-text'>Ties at the neck for an adjustable fit. Available in D-cup sizes.</p><img alt='' class='swim__onepiece-type--img' src='/next-static/images/jcrew/sizechart/swim/img14_classic_tank.jpg'><h3 class='swim__onepiece-type--text'>classic tank</h3><p class='fit-text'>A simple silhouette featuring over-the-shoulder straps. Available in D-cup sizes.</p><img alt='' class='swim__onepiece-type--img' src='/next-static/images/jcrew/sizechart/swim/img15_bandeau_tank.jpg'><h3 class='swim__onepiece-type--text'>bandeau tank</h3><p class='fit-text'>Comes with removable halter straps and features supportive boning at the sides.</p><img alt='' class='swim__onepiece-type--img' src='/next-static/images/jcrew/sizechart/swim/img16_blouson_tank.jpg'><h3 class='swim__onepiece-type--text'>blouson tank</h3><p class='fit-text'>One of our newest styles, with an elegantly draped bodice (for flattering full coverage) and a removable halter strap. Also has a supportive shelf bra with boning at the sides.</p><img alt='' class='swim__onepiece-type--img' src='/next-static/images/jcrew/sizechart/swim/img17_underwire_tank.jpg'><h3 class='swim__onepiece-type--text'>underwire tank</h3><p class='fit-text'>Featuring a seam at the bust for added support and boning at the sides. Lightly padded with removable shoulder straps. Also available in D-cup sizes.</p>"
+        }],
+        "guide": ["<h3>torso</h3><p>Measure a loop from your shoulder, at the base of the neck, down the front of the body to the crotch and back up the other side.</p><h3>natural waist</h3><p>Measure around your natural waistline, keeping the tape a bit loose.</p><h3>hips</h3><p>Measure around the fullest part of your body at the top of your leg.</p><h3>bust</h3><p>Measure under your arms, around the fullest part of your chest.</p>"],
+        "subtype": ["swim"],
+        "swim": {
+          "subtype_text": "Shopping for swimwear just got simpler—our swim line now fits just like the rest of J.Crew, so finding your perfect size is a snap.",
+          "nonmetric": [["Size (US)", "Numeric Size (US)", "A-C Cup Tops", "D-Cup Tops", "DD Cup Tops", "Long Torso", "Bust", "Natural Waist", "Hip"], ["XXS", "0", "----", "----", "----", 59.5, 32, 24, 34], ["XS", "0", "----", "----", "----", 60.5, 33, 25, 35], ["XS", "2", "32A", "----", "----", 61.5, 34, 26, 36], ["S", "4", "34A/32B", "32D", "30DD", 63, 35, 27, 37], ["S", "6", "36A/34B/32C", "34D", "32DD", 64.5, 36, 28, 38], ["M", "8", "36B/34C", "36D", "34DD", 66, 37, 29, 39], ["M", "10", "36C", "38D", "36DD", 67.5, 38, 30, 40], ["L", "12", "38C", "40D", "38DD", 69, 39.5, 31.5, 41.5], ["L", "14", "----", "42D", "40DD", 70.5, 41, 33, 43], ["XL", "16", "----", "44D", "42DD", 72, 43.5, 35.5, 43.5], ["XXL / 1X", "18", "----", "----", "----", 73.5, 46, 38, 44.5], ["2X", "20", "----", "----", "----", "----", 48.5, 40.5, 47], ["3X", "22", "----", "----", "----", "----", 51, 43, 49.5], ["3X", "24", "----", "----", "----", "----", 54.5, 46.5, 53]],
+          "metric": [["Size (US)", "Numeric Size (US)", "A-C Cup Tops", "D-Cup Tops", "DD Cup Tops", "Long Torso", "Bust", "Natural Waist", "Hip"], ["XXS", "0", "----", "----", "----", 151, 81, 61, 86], ["XS", "0", "----", "----", "----", 154, 84, 64, 89], ["XS", "2", "32A", "----", "----", 156, 86, 66, 91.5], ["S", "4", "34A/32B", "32D", "30DD", 160, 89, 68.5, 94], ["S", "6", "36A/34B/32C", "34D", "32DD", 164, 91.5, 71, 97], ["M", "8", "36B/34C", "36D", "34DD", 168, 94, 73.5, 99], ["M", "10", "36C", "38D", "36DD", 171.5, 96.5, 76, 101.5], ["L", "12", "38C", "40D", "38DD", 175, 100.5, 80, 105.5], ["L", "14", "----", "42D", "40DD", 179, 104, 84, 109], ["XL", "16", "----", "44D", "42DD", 183, 110.5, 94, 110.5], ["XXL / 1X", "18", "----", "----", "----", 186.5, 117, 96.5, 112], ["2X", "20", "----", "----", "----", "----", 123, 103, 119], ["3X", "22", "----", "----", "----", "----", 129.5, 109, 126], ["3X", "24", "----", "----", "----", "----", 138.5, 118, 134.5]]
+        },
+        "conversion": ["swim_conversion", "bra_conversion"],
+        "swim_conversion": {
+          "text": "swim conversion",
+          "table": [["SIZE (US)", "Nummeric Size (US)", "UK", "Germany", "France", "Italy", "Spain", "Japan", "Australia"], ["XXXS", "000", 0, 24, 28, 32, 26, 1, 0], ["XXS", "00", 2, 26, 30, 34, 28, 1, 2], ["XS", 0, 4, 28, 32, 36, 30, 3, 4], ["XS", 2, 6, 30, 34, 38, 32, 5, 6], ["S", 4, 8, 34, 36, 40, 34, 7, 8], ["S", 6, 10, 34, 38, 42, 36, 9, 10], ["M", 8, 12, 36, 40, 44, 38, 11, 12], ["M", 10, 14, 38, 42, 46, 40, 13, 14], ["L", 12, 16, 40, 44, 48, 42, 15, 16], ["L", 14, 18, 42, 46, 50, 44, 17, 18], ["XL", 16, 20, 44, 48, 52, 46, 19, 20], ["XL", 18, 22, 46, 50, 54, 48, 21, 22], ["XXL", 20, 24, 48, 52, 56, 50, 23, 24]]
+        },
+        "bra_conversion": {
+          "text": "bra/cup conversion",
+          "table": [["Size (US)", "Japan", "EU / Italy", "France"], ["32A", "70B", "70A", "85A"], ["32B", "70C", "70B", "85B"], ["32C", "70D", "70C", "85C"], ["32D", "70E", "70D", "85D"], ["32DD", "70F", "70DD/E", "85E"], ["34A", "75B", "75A", "90A"], ["34B", "75C", "75B", "90B"], ["34C", "75D", "75C", "90C"], ["34D", "75E", "75D", "90D"], ["34DD", "75F", "75DD/E", "90E"], ["36A", "80B", "80A", "95A"], ["36B", "80C", "80B", "95B"], ["36C", "80D", "80C", "95C"], ["36D", "80E", "80D", "95D"], ["36DD", "80F", "80DD/E", "95E"], ["38DD", "85F", "85DD/E", "100E"]]
+        }
+      },
+      "3": {
+        "type": "dresses",
+        "fit": ["<h3>a-line</h3><p>An A-line silhouette, cut close to the hip and with a slight flare at the hem, is flattering for all figures. It can balance a figure that's small on top and fuller on the bottom. The skirt has a smooth, perfectly continuous shape all the way around because it doesn't require a vent.</p><h3>empire waist</h3><p>An Empire waistline flatters a range of figures. It hits high, at the smallest part of the waist. The effect lengthens the body and the legs.</p><h3>full-length hemline</h3><p>Full-length dresses have been worn for centuries, but there's a reason they're still popular today: an unbroken line almost or all the way to the floor has a graceful, elongating effect. A train in the back adds the illusion of floating across the floor.</p><h3>halter neckline</h3><p>A halter neckline is a sophisticated look that works well with broad shoulders or a tall figure.</p><h3>low-cut back</h3><p>A dress cut low in the back will emphasize a feature that looks beautiful on every figure. It looks sophisticated and modern but still classic.</p><h3>one-shoulder neckline</h3><p>An asymmetrical neckline draws the eye up and flatters features like your arms and collarbone.</p><h3>scoop neckline</h3><p>A scoop or U-shaped neckline flatters all figures. It elongates the neck with more subtlety than a V-neckline, and it reveals a flattering glimpse of the collarbone.</p><h3>short-length hemline</h3><p>Although traditionally worn during daylight or cocktail hours, knee-length dresses have a fresh, modern feel that works for semiformal events at night. Short dresses look most flattering when the hem hits anywhere from the lower part of the knee to just above it.</p><h3>strapless bodice</h3><p>A strapless design accentuates great shoulders and works well on a fuller bust. It brings the eye to the collarbone, always a beautiful feature on any figure.</p><h3>v-shaped neckline</h3><p>A V-shaped neckline has a graceful effect because it elongates the neck. It's particularly flattering for a B- or C-cup figure.</p>"],
+        "guide": ["<h3>waist</h3><p>Measure around your natural waistline, keeping the tape a bit loose.</p><h3>hips</h3><p>Measure around the fullest part of your body at the top of your leg.</p><h3>bust</h3><p>Measure under your arms, around the fullest part of your chest.</p>"],
+        "subtype": ["regular", "tall", "petite"],
+        "regular": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Numeric Size (US)", "Bust", "Natural Waist", "Hip"], ["XXXS", "000", 31, 23, 33], ["XXS", "00", 32, 24, 34], ["XS", "0", 33, 25, 35], ["XS", "2", 34, 26, 36], ["S", "4", 35, 27, 37], ["S", "6", 36, 28, 38], ["M", "8", 37, 29, 39], ["M", "10", 38, 30, 40], ["L", "12", 39.5, 31.5, 41.5], ["L", "14", 41, 33, 43], ["XL", "16", 43.5, 35.5, 45.5], ["XXL / 1X", "18", 46, 38, 48], ["2X", "20", 48.5, 40.5, 50.5], ["3X", "22", 51, 43, 53], ["3X", "24", 53.5, 45.5, 55.5]],
+          "metric": [["Size (US)", "Numeric Size (US)", "Bust", "Natural Waist", "Hip"], ["XXXS", "000", 79, 58.5, 84], ["XXS", "00", 81, 61, 86], ["XS", "0", 84, 64, 89], ["XS", "2", 86, 66, 91.5], ["S", "4", 89, 68.5, 94], ["S", "6", 91.5, 71, 97], ["M", "8", 94, 73.5, 99], ["M", "10", 96.5, 76, 101.5], ["L", "12", 100.5, 80, 105.5], ["L", "14", 104, 84, 109], ["XL", "16", 110.5, 94, 115.5], ["XXL / 1X", "18", 117, 96.5, 122], ["2X", "20", 123, 103, 128], ["3X", "22", 129.5, 109, 134.5], ["3X", "24", 136, 115.5, 141]]
+        },
+        "tall": {
+          "subtype_text": "Tall sizes recommended for women 5'9\"-6'0\". Catalog/jcrew.com only.",
+          "nonmetric": [["Size (US)", "Numeric Size (US)", "Bust", "Natural Waist", "Hip"], ["XXS", "00", 31.5, 24, 34], ["XS", "0", 32.5, 25, 35], ["XS", "2", 33.5, 26, 36], ["S", "4", 34.5, 27, 37], ["S", "6", 35.5, 28, 38], ["M", "8", 36.5, 29, 39], ["M", "10", 37.5, 30, 40], ["L", "12", 39, 31.5, 41.5], ["L", "14", 40.5, 33, 43], ["XL", "16", 42, 34.5, 44.5], ["XXL", "18", 44, 36, 46.5], ["—", "20", 46, 37.5, 48.5]],
+          "metric": [["Size (US)", "Numeric Size (US)", "Bust", "Natural Waist", "Hip"], ["XXS", "00", 80, 61, 86], ["XS", "0", 82.5, 64, 89], ["XS", "2", 85, 66, 91.5], ["S", "4", 87.5, 68.5, 94], ["S", "6", 90, 71, 97], ["M", "8", 92.5, 73.5, 99], ["M", "10", 95, 76, 101.5], ["L", "12", 99, 80, 105.5], ["L", "14", 103, 84, 109], ["XL", "16", 107, 88, 113], ["XXL", "18", 112, 91.5, 118], ["—", "20", 117, 95, 123]]
+        },
+        "petite": {
+          "subtype_text": "Petite sizes, recommended for women 5'0\"-5'4\", have a reduced sleeve and torso length to better fit smaller frames. Catalog/jcrew.com only.",
+          "nonmetric": [["Size (US)", "Numeric Size (US)", "Bust", "Natural Waist", "Hip"], ["XXS", "00", 30.5, 23, 33.25], ["XS", "0", 31.5, 24, 34], ["XS", "2", 32.5, 25, 35], ["S", "4", 33.5, 26, 36], ["S", "6", 34.5, 27, 37], ["M", "8", 35.5, 28, 38], ["M", "10", 36.5, 29, 39], ["L", "12", 38, 30.5, 40.5], ["L", "14", 39.5, 32, 42]],
+          "metric": [["Size (US)", "Numeric Size (US)", "Bust", "Natural Waist", "Hip"], ["XXS", "00", 77.5, 58.5, 84.5], ["XS", "0", 80, 61, 86], ["XS", "2", 82.5, 64, 89], ["S", "4", 85, 66, 91.5], ["S", "6", 87.5, 68.5, 94], ["M", "8", 90, 71, 97], ["M", "10", 92.5, 73.5, 99], ["L", "12", 97, 77.5, 103], ["L", "14", 100, 81, 106.5]]
+        },
+        "conversion": ["dresses_conversion"],
+        "dresses_conversion": {
+          "text": "dresses",
+          "table": [["SIZE (US)", "Nummeric Size (US)", "UK", "Germany", "France", "Italy", "Spain", "Japan", "Australia"], ["XXXS", "000", 0, 24, 28, 32, 26, 1, 0], ["XXS", "00", 2, 26, 30, 34, 28, 1, 2], ["XS", 0, 4, 28, 32, 36, 30, 3, 4], ["XS", 2, 6, 30, 34, 38, 32, 5, 6], ["S", 4, 8, 34, 36, 40, 34, 7, 8], ["S", 6, 10, 34, 38, 42, 36, 9, 10], ["M", 8, 12, 36, 40, 44, 38, 11, 12], ["M", 10, 14, 38, 42, 46, 40, 13, 14], ["L", 12, 16, 40, 44, 48, 42, 15, 16], ["L", 14, 18, 42, 46, 50, 44, 17, 18], ["XL", 16, 20, 44, 48, 52, 46, 19, 20], ["XXL", 18, 22, 46, 50, 54, 48, 21, 22], ["—", 20, 24, 48, 52, 56, 50, 23, 24]]
+        }
+      },
+      "4": {
+        "type": "shoes",
+        "fit": [],
+        "guide": [],
+        "subtype": [],
+        "conversion": ["shoes_conversion"],
+        "shoes_conversion": {
+          "text": "shoes",
+          "table": [["Size", "US", "UK", "EU", "Japan"], ["5", 5, 2.5, 35.5, 21.5], ["5H", 5.5, 3, 36, 22], ["6", 6, 3.5, 36.5, 22.5], ["6H", 6.5, 4, 37, 23], ["7", 7, 4.5, 37.5, 23.5], ["7H", 7.5, 5, 38, 24], ["8", 8, 5.5, 38.5, 24.5], ["8H", 8.5, 6, 39, 25], ["9", 9, 6.5, 39.5, 25.5], ["9H", 9.5, 7, 40, 26], ["10", 10, 7.5, 40.5, 26.5], ["10H", 10.5, 8, 41, 27], ["11", 11, 8.5, 41.5, 27.5], ["11H", 11.5, 9, 42, 28], ["12", 12, 9.5, 42.5, 28.5]]
+        }
+      },
+      "5": {
+        "type": "accessories",
+        "fit": [],
+        "guide": [],
+        "subtype": ["hats", "gloves", "tights"],
+        "hats": {
+          "subtype_text": "Measure around your head where the hat would fit comfortably.",
+          "nonmetric": [["Size (US)", "Head Size", "Hat Size"], ["S", "21 1/6-21 1/2", "6 3/4-6 7/8"], ["M", "21 7/8-22 1/4", "7-7 1/8"], ["L", "22 5/8-23", "7 1/4-7 3/8"], ["XL", "23 1/2-23 7/8", "7 1/2-7 5/8"]],
+          "metric": [["Size (US)", "Head Size", "Hat size"], ["S", "54-55", "17.25-17.5"], ["M", "56-57", "17.75-18"], ["L", "58-59", "18.5-18.75"], ["XL", "60-61", "19-19.25"]]
+        },
+        "gloves": {
+          "subtype_text": "Measure around your hand at the widest point excluding the thumb.",
+          "nonmetric": [["Size (US)", "Hand Size"], ["S", "6 1/2"], ["M", "7"], ["L", "7 1/2"], ["XL", "8"]],
+          "metric": [["Size (US)", "Hand Size"], ["S", "17"], ["M", "18"], ["L", "19"], ["XL", "20"]]
+        },
+        "tights": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Height", "Weight (lbs)"], ["XS", "4'9\"-5'4\"", "95-100"], ["S", "4'11\"-5'7\"", "100-140"], ["M", "5'2\"-6'0\"", "115-170"], ["L", "5'6\"-6'6\"", "135-180"]],
+          "metric": [["Size (US)", "Height (m)", "Weight (kgs)"], ["XS", "1.44-1.62", "43-58"], ["S", "1.49-1.70", "45-63"], ["M", "1.57-1.82", "52-77"], ["L", "1.67-1.82", "61-81"]]
+        },
+        "conversion": ["belts_conversion", "ring_conversion"],
+        "belts_conversion": {
+          "text": "belts",
+          "table": [["Numeric Pant Size", "Belt Size", "Belt Size"], ["00", "XS", "S/M"], ["0", "XS", "S/M"], ["2", "XS or S", "S/M"], ["4", "S or M", "S/M"], ["6", "M", "S/M or M/L"], ["8", "M or L", "M/L"], ["10", "L", "M/L"], ["12", "L or XL", "M/L"], ["14", "XL", "----"], ["16", "XL", "----"]]
+        },
+        "ring_conversion": {
+          "text": "rings",
+          "table": [["Size (US)", "UK", "Italy", "France"], [5, "J 1/2", "10/11", "49.5"], [6, "L 1/2", "13", "52.0"], [7, "N 1/2", "15/16", "54.5"], [8, "P 1/2", "18", "57.0"]]
+        }
+      },
+      "6": {
+        "type": "outerwear",
+        "fit": [],
+        "guide": ["<h3>bust</h3><p>Measure under your arms, around the fullest part of your chest.</p><h3>waist</h3><p>Measure around your natural waistline, keeping the tape a bit loose.</p><h3>arm length</h3><p>Bend your elbow 90 degrees and place your hand on your hip. Hold the tape at the center back of your neck. Measure across your shoulder to your elbow and down to your wrist. The total length is your arm length.</p><h3>hips</h3><p>Measure around the fullest part of your body at the top of your leg.</p>"],
+        "subtype": ["regular", "petite", "tall"],
+        "regular": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Numeric Size (US)", "Bust", "Natural Waist", "Hip", "Arm Length"], ["XXXS", "000", 31, 23, 33, 29.25], ["XXS", "00", 32, 24, 34, 29.62], ["XS", "0", 33, 25, 35, 30], ["XS", "2", 34, 26, 36, 30.37], ["S", "4", 35, 27, 37, 30.75], ["S", "6", 36, 28, 38, 31.12], ["M", "8", 37, 29, 39, 31.5], ["M", "10", 38, 30, 40, 31.87], ["L", "12", 39.5, 31.5, 41.5, 32.25], ["L", "14", 41, 33, 43, 32.62], ["XL", "16", 43.5, 35.5, 45.5, 33], ["XXL / 1X", "18", 46, 38, 48, 33], ["2X", "20", 48.5, 40.5, 50.5, 33.3], ["3X", "22", 51, 43, 53, 33.3], ["3X", "24", 53.5, 45.5, 55.5, 33.75]],
+          "metric": [["Size (US)", "Numeric Size (US)", "Bust", "Natural Waist", "Hip", "Arm Length"], ["XXXS", "000", 79, 58.5, 84, 74], ["XXS", "00", 81, 61, 86, 75.25], ["XS", "0", 84, 64, 90, 76.25], ["XS", "2", 86, 66, 91.5, 77], ["S", "4", 89, 68.5, 94, 78], ["S", "6", 91.5, 71, 96.5, 79], ["M", "8", 94, 73.5, 99, 80], ["M", "10", 96.5, 76, 101.5, 81], ["L", "12", 100.5, 80, 105.5, 82], ["L", "14", 104, 84, 109, 83], ["XL", "16", 110.5, 94, 115.5, 84], ["XXL / 1X", "18", 117, 96.5, 122, 84], ["2X", "20", 123, 103, 128, 85], ["3X", "22", 129.5, 109, 134.5, 85], ["3X", "24", 136, 115.5, 141, 85.5]]
+        },
+        "petite": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Numeric Size (US)", "Bust", "Natural Waist", "Hip", "Arm Length"], ["XXS", "00", 30.5, 23, 33.25, 27.75], ["XS", "0", 31.5, 24, 34, 28.25], ["XS", "2", 32.5, 25, 35, 28.75], ["S", "4", 33.5, 26, 36, 29], ["S", "6", 34.5, 27, 37, 29.25], ["M", "8", 35.5, 28, 38, 29.75], ["M", "10", 36.5, 29, 39, 30], ["L", "12", 38, 30.5, 40.5, 30.5]],
+          "metric": [["Size (US)", "Numeric Size (US)", "Bust", "Natural Waist", "Hip", "Arm Length"], ["XXS", "00", 80, 61, 84.5, 70.5], ["XS", "0", 82.5, 64, 86.25, 71.75], ["XS", "2", 85, 66, 90, 73], ["S", "4", 87.5, 68.5, 91.5, 73.5], ["S", "6", 90, 71, 94, 74], ["M", "8", 92.5, 73.5, 96.5, 75.5], ["M", "10", 95, 76, 99, 76], ["L", "12", 99, 80, 103, 77.5]]
+        },
+        "tall": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Numeric Size (US)", "Bust", "Natural Waist", "Hip", "Arm Length"], ["XXS", "00", 31.5, 24, 34, 31.5], ["XS", "0", 32.5, 25, 35, 31.75], ["XS", "2", 33.5, 26, 36, 32.25], ["S", "4", 34.5, 27, 37, 32.5], ["S", "6", 35.5, 28, 38, 33], ["M", "8", 36.5, 29, 39, 33.25], ["M", "10", 37.5, 30, 40, 33.75], ["L", "12", 39, 31.5, 41.5, 34], ["L", "14", 40.5, 33, 43, 34.5], ["XL", "16", 42, 34.5, 44.5, 34.75]],
+          "metric": [["Size (US)", "Numeric Size (US)", "Bust", "Natural Waist", "Hip", "Arm Length"], ["XXS", "00", 80, 61, 86.25, 80], ["XS", "0", 82.5, 64, 89, 80.5], ["XS", "2", 85, 66, 91.5, 82], ["S", "4", 87.5, 68.5, 94, 82.5], ["S", "6", 90, 71, 96.5, 84], ["M", "8", 92.5, 73.5, 99, 84.5], ["M", "10", 95, 76, 101, 85.75], ["L", "12", 99, 80, 104, 86.25], ["L", "14", 103, 84, 109.25, 87.5], ["XL", "16", 107, 88, 113, 88]]
+        },
+        "conversion": ["outerwear_conversion"],
+        "outerwear_conversion": {
+          "text": "outerwear",
+          "table": [["SIZE (US)", "Nummeric Size (US)", "UK", "Germany", "France", "Italy", "Spain", "Japan", "Australia"], ["XXXS", "000", 0, 24, 28, 32, 26, 1, 0], ["XXS", "00", 2, 26, 30, 34, 28, 1, 2], ["XS", 0, 4, 28, 32, 36, 30, 3, 4], ["XS", 2, 6, 30, 34, 38, 32, 5, 6], ["S", 4, 8, 34, 36, 40, 34, 7, 8], ["S", 6, 10, 34, 38, 42, 36, 9, 10], ["M", 8, 12, 36, 40, 44, 38, 11, 12], ["M", 10, 14, 38, 42, 46, 40, 13, 14], ["L", 12, 16, 40, 44, 48, 42, 15, 16], ["L", 14, 18, 42, 46, 50, 44, 17, 18], ["XL", 16, 20, 44, 48, 52, 46, 19, 20], ["XL", 18, 22, 46, 50, 54, 48, 21, 22], ["XXL", 20, 24, 48, 52, 56, 50, 23, 24]]
+        }
+      },
+      "7": {
+        "type": "denim",
+        "fit": [],
+        "guide": ["<h3>hips</h3><p>Measure around the fullest part of your body at the top of your leg.</p><h3>waist</h3><p>Measure around your natural waistline, keeping the tape a bit loose.</p><h3>inseam</h3><p>Wearing pants that fit well, measure from the crotch seam to the bottom of the leg.</p>"],
+        "subtype": ["denim"],
+        "denim": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Numeric Size (US)", "Natural Waist"], [23, "000", 23], [24, "00", 24], [25, "0", 25], [26, "2", 26], [27, "4", 27], [28, "6", 28], [29, "8", 29.25], [30, "10", 30.5], [31, "12", 32], [32, "14", 33.5], [33, "16", 35.25], [34, "18", 37.25], [35, "20", 39.75], [36, "22", 42.25], [37, "24", 45.25]],
+          "metric": [["Size (US)", "Numeric Size (US)", "Natural Waist"], [23, "000", 58.5], [24, "00", 62], [25, "0", 63.5], [26, "2", 66], [27, "4", 68.5], [28, "6", 71], [29, "8", 74.25], [30, "10", 77.5], [31, "12", 81], [32, "14", 85], [33, "16", 89.5], [34, "18", 94.5], [35, "20", 101], [36, "22", 107], [37, "24", 115]]
+        },
+        "conversion": ["bottoms_conversion"],
+        "bottoms_conversion": {
+          "text": "bottoms",
+          "table": [["SIZE (US)", "Nummeric Size (US)", "UK", "Germany", "France", "Italy", "Spain", "Japan", "Australia"], ["XXXS", "000", 0, 24, 28, 32, 26, 1, 0], ["XXS", "00", 2, 26, 30, 34, 28, 1, 2], ["XS", 0, 4, 28, 32, 36, 30, 3, 4], ["XS", 2, 6, 30, 34, 38, 32, 5, 6], ["S", 4, 8, 34, 36, 40, 34, 7, 8], ["S", 6, 10, 34, 38, 42, 36, 9, 10], ["M", 8, 12, 36, 40, 44, 38, 11, 12], ["M", 10, 14, 38, 42, 46, 40, 13, 14], ["L", 12, 16, 40, 44, 48, 42, 15, 16], ["L", 14, 18, 42, 46, 50, 44, 17, 18], ["XL", 16, 20, 44, 48, 52, 46, 19, 20], ["XL", 18, 22, 46, 50, 54, 48, 21, 22], ["XXL", 20, 24, 48, 52, 56, 50, 23, 24]]
+        }
+      },
+      "category": "women"
+    },
+    "2": {
+      "0": {
+        "type": "tops",
+        "fit": [],
+        "guide": ["<h3>chest</h3><p>Measure a loop under your child’s armpits, passing the tape across the fullest part of the chest and around the shoulder blades.</p><h3>waist</h3><p>Measure a loop just above your child’s hip bone, around the natural waistline.</p>"],
+        "subtype": ["tops"],
+        "tops": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Numerical Size (US)", "Age", "Height", "Weight (lbs)", "Waist", "Chest"], ["XS", "2", 2, "33-36", "27.5-30.5", 20, 19.75], ["XS", "3", 3, "36-39", "30.5-34.5", 20.5, 21], ["S", "4-5", "4-5", "39-42", "34.5-46.5", "21-21.5", "22-23"], ["S", "6-7", "6-7", "44-49", "46.5-63.5", "22-22.5", "24-25.5"], ["M", "8", 8, "49-51", "63.5-70", 23, 27], ["M", "10", 10, "51-53", "73-76", 24, 28], ["L", "12", 12, "53-57", "76-86", 25.5, 30], ["L", "14", 14, "57-63", "90-112", "25-27", 32], ["XL", "16", 16, "64-68", "110-130", "26-28", "33-37"]],
+          "metric": [["Size (US)", "Numerical Size (US)", "Age", "Height", "Weight (kgs)", "Waist", "Chest"], ["XS", "2", 2, "84-91.5", "12.5-14", 51, 50], ["XS", "3", 3, "91.5-99", "14-16", 52, 53.5], ["S", "4-5", "4-5", "99-112", "16-21", "53.5-54.5", "56-58.5"], ["S", "6-7", "6-7", "112-124.5", "21-29", "56-57", "61-65"], ["M", "8", 8, "124.5-129.5", "29-32", 58.5, 68.5], ["M", "10", 10, "129.5-134.5", "33-34.5", 61, 71], ["L", "12", 12, "134.5-145", "34.5-36.5", 65, 76], ["L", "14", 14, "145-160", "41-51", "63.5-68.5", 81], ["XL", "16", 16, "162-173", "49-58", "66-71", "84-94"]]
+        },
+        "conversion": []
+      },
+      "1": {
+        "type": "bottoms",
+        "fit": [],
+        "guide": ["<h3>seat</h3><p>Measure a loop around the widest part of your child’s seat (with diapers, if applicable).</p><h3>waist</h3><p>Measure a loop just above your child’s hip bone, around the natural waistline.</p><h3>inseam</h3><p>Measure your child’s best-fitting pants, from the crotch to the inside hem. (Note: You can also measure your child from the crotch to the floor and subtract one inch.)</p>"],
+        "subtype": ["bottoms"],
+        "bottoms": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Numerical Size (US)", "Age", "Height", "Weight (lbs)", "Waist", "Seat"], ["XS", "2", 2, "33-36", "27.5-30.5", 20, 21], ["XS", "3", 3, "36-39", "30.5-34.5", 20.5, 22], ["S", "4", 4, "39-42", "34.5-39.5", 21, 23], ["S", "5", 5, "42-44", "39.5-46.5", 21.5, 24], ["S", "6", 6, "44-47", "46.5-54.5", 22, 25], ["S", "7", 7, "47-49", "54.5-63.5", 22.5, 26], ["M", "8", 8, "49-51", "63.5-70", 23, 27], ["M", "10", 10, "51-53", "73-76", 24, 28], ["L", "12", 12, "53-57", "76-86", 25.5, 30], ["L", "14", 14, "57-63", "90-112", 27, 33], ["XL", "16", 16, "64-68", "110-130", "26.5-28", "34-36"]],
+          "metric": [["Size (US)", "Numerical Size (US)", "Age", "Height", "Weight (kgs)", "Waist", "Seat"], ["XS", "2", 2, "84-91.5", "12.5-14", 51, 53.5], ["XS", "3", 3, "91.5-99", "14-16", 52, 56], ["S", "4", 4, "99-106", "16-18", 53.5, 58.5], ["S", "5", 5, "106-112", "18-21", 54.5, 61], ["S", "6", 6, "112-119.5", "21-25", 56, 63.5], ["S", "7", 7, "119.5-124.5", "25-29", 57, 66], ["M", "8", 8, "124.5-129.5", "29-32", 58.5, 68.5], ["M", "10", 10, "129.5-134.5", "33-34.5", 61, 71], ["L", "12", 12, "134.5-145", "34.5-36.5", 65, 76], ["L", "14", 14, "145-160", "41-51", 68.5, 84], ["XL", "16", 16, "162-173", "49-58", "67-71", "86-91"]]
+        },
+        "conversion": ["boxer_conversion"],
+        "boxer_conversion": {
+          "text": "boxer",
+          "table": [["Size (US)", "Numeric Size"], ["XS", "2"], ["S", "3"], ["M", "4-5"], ["L", "6-7"], ["XL", "8-10"], ["XXL", "12-14"]]
+        }
+      },
+      "2": {
+        "type": "shoes",
+        "fit": [],
+        "guide": ["<h3>shoes</h3><p>Measure the bottom of your child’s foot, from the back of the foot to the top of the longest toe. (Measure both feet and use the longer of the two measurements.)</p>"],
+        "subtype": ["shoes"],
+        "shoes": {
+          "subtype_text": "",
+          "nonmetric": [["Size", "Length"], ["T6", "5 1/4"], ["T7", "5 1/2"], ["K8", "5 3/4"], ["K9", "6 1/8"], ["K10", "6 1/2"], ["K11", "6 3/4"], ["K12", "7 1/8"], ["K13", "7 1/2"], ["K1", "7 3/4"], ["K2", "8 1/8"], ["K3", "8 1/2"], ["K4", "8 3/4"], ["K5", "9 1/8"], ["K6", "9 1/2"], ["K7", "9 3/4"]],
+          "metric": [["Size", "Length"], ["T6", 13.5], ["T7", 14], ["K8", 14.5], ["K9", 15.5], ["K10", 16.5], ["K11", 17], ["K12", 18], ["K13", 19], ["K1", 19.5], ["K2", 20.5], ["K3", 21.5], ["K4", 22], ["K5", 23], ["K6", 24], ["K7", 25]]
+        },
+        "conversion": ["shoes_conversion"],
+        "shoes_conversion": {
+          "text": "shoes",
+          "table": [["Size", "US", "UK", "EU"], ["T6", 6, "5.5-6", 22], ["T7", 7, "6-6.5", 23], ["K8", 8, "7-7.5", "24-25"], ["K9", 9, 8, "25-26"], ["K10", 10, 9, "26-27"], ["K11", 11, 10, "27-28"], ["K12", 12, 11, "29-30"], ["K13", 13, 12, 31], ["K1", 1, 13, 32], ["K2", 2, 1, "33-34"], ["K3", 3, 2, "34-35"], ["K4", 4, 3, 36], ["K5", 5, 4, 37], ["K6", 6, 5, 38], ["K7", 7, 6, 39]]
+        }
+      },
+      "3": {
+        "type": "accessories",
+        "fit": [],
+        "guide": [],
+        "subtype": ["hats"],
+        "subtype_text": "",
+        "hats": {
+          "nonmetric": [["Size (US)", "Head Size", "Age"], ["S/M", 20, "2-6/7"], ["L/XL", 21, "8-14"]],
+          "metric": [["Size (US)", "Head Size", "Age"], ["S/M", 52.5, "2-6/7"], ["L/XL", 55, "8-14"]]
+        },
+        "conversion": ["socks_conversion", "belts_conversion", "gloves_conversion", "ties_conversion", "bow_ties_conversion"],
+        "socks_conversion": {
+          "text": "socks",
+          "table": [["Size (US)", "Shoe Size"], ["XS", "T4-T7"], ["S", "K8-K12"], ["M", "K13-K2"], ["L", "K3-K5"], ["XL", "K6-K7"]]
+        },
+        "belts_conversion": {
+          "text": "belts",
+          "table": [["Size (US)", "Belt Size", "Belt Size"], ["2-3", "S", "S/M"], ["4-7", "M", "S/M"], ["8-10", "L", "L/XL"], ["12-14", "----", "L/XL"]]
+        },
+        "gloves_conversion": {
+          "text": "gloves",
+          "table": [["Size (US)", "Height", "Age"], ["S", "7", "2-4/5"], ["M", "7 3/4", "6/7-10"], ["L", "8 1/2", "12-14"]]
+        },
+        "ties_conversion": {
+          "text": "ties",
+          "table": [["Size (US)", "Age"], ["42 inches", "2-7"], ["52 inches", "8-16"]]
+        },
+        "bow_ties_conversion": {
+          "text": "bow ties",
+          "table": [["Size (US)", "Age"], ["S-M", "2-7"], ["L-XL", "8-16"]]
+        }
+      },
+      "4": {
+        "type": "outerwear",
+        "fit": [],
+        "guide": ["<h3>waist</h3><p>Measure a loop just above your child’s hip bone, around the natural waistline.</p><h3>chest</h3><p>Measure a loop under your child’s armpits, passing the tape across the fullest part of the chest and around the shoulder blades.</p>"],
+        "subtype": ["jackets", "outerwear"],
+        "jackets": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Numerical Size (US)", "Age", "Height", "Weight (lbs)", "Waist", "Chest"], ["XS", "2", 2, "33-36", "27.5-30.5", 20, 19.75], ["XS", "3", 3, "36-39", "30.5-34.5", 20.5, 21], ["S", "4", 4, "39-42", "34.5-39.5", 21, 22], ["S", "5", 5, "42-44", "39.5-46.5", 21.5, 23], ["S", "6", 6, "44-47", "46.5-54.5", 22, 24], ["S", "7", 7, "47-49", "54.5-63.5", 22.5, 25.5], ["M", "8", 8, "49-51", "63.5-70", 23, 27], ["M", "10", 10, "51-53", "73-76", 24, 28], ["L", "12", 12, "53-57", "76-86", 25.5, 30], ["L", "14", 14, "57-63", "90-112", "25-27", 32], ["XL", "16", 16, "64-68", "110-130", "26-28", "33-37"]],
+          "metric": [["Size (US)", "Numerical Size (US)", "Age", "Height", "Weight (kgs)", "Waist", "Chest"], ["XS", "2", 2, "84-91.5", "12.5-14", 51, 50], ["XS", "3", 3, "91.5-99", "14-16", 52, 53.5], ["S", "4", 4, "99-106", "16-18", 53.5, 56], ["S", "5", 5, "106-112", "18-21", 54.5, 58.5], ["S", "6", 6, "112-119.5", "21-25", 56, 61], ["S", "7", 7, "119.5-124.5", "25-29", 57, 65], ["M", "8", 8, "124.5-129.5", "29-32", 58.5, 68.5], ["M", "10", 10, "129.5-134.5", "33-34.5", 61, 71], ["L", "12", 12, "134.5-145", "34.5-36.5", 65, 76], ["L", "14", 14, "145-160", "41-51", "63.5-68.5", 81], ["XL", "16", 16, "162-173", "49-58", "66-71", "84-94"]]
+        },
+        "outerwear": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Numerical Size (US)", "Age", "Height", "Weight (lbs)", "Waist", "Chest"], ["XS", "2", 2, "33-36", "27.5-30.5", 20, 19.75], ["XS", "3", 3, "36-39", "30.5-34.5", 20.5, 21], ["S", "4-5", "4-5", "39-42", "34.5-46.5", "21-21.5", "22-23"], ["M", "6-7", "6-7", "44-49", "46.5-63.5", "22-22.5", "24-25.5"], ["M", "8", 8, "49-51", "63.5-70", 23, 27], ["M", "10", 10, "51-53", "73-76", 24, 28], ["L", "12", 12, "53-57", "76-86", 25.5, 30], ["L", "14", 14, "57-63", "90-112", "25-27", 32], ["XL", "16", 16, "64-68", "110-130", "26-28", "33-37"]],
+          "metric": [["Size (US)", "Numerical Size (US)", "Age", "Height", "Weight (kgs)", "Waist", "Chest"], ["XS", "2", 2, "84-91.5", "12.5-14", 51, 50], ["XS", "3", 3, "91.5-99", "14-16", 52, 53.5], ["S", "4-5", "4-5", "99-112", "16-21", "53.5-54.5", "56-58.5"], ["S", "6-7", "6-7", "112-124.5", "21-29", "56-57", "61-65"], ["M", "8", 8, "124.5-129.5", "29-32", 58.5, 68.5], ["M", "10", 10, "129.5-134.5", "33-34.5", 61, 71], ["L", "12", 12, "134.5-145", "34.5-36.5", 65, 76], ["L", "14", 14, "145-160", "41-51", "63.5-68.5", 81], ["XL", "16", 16, "162-173", "49-58", "66-71", "84-94"]]
+        },
+        "conversion": []
+      },
+      "category": "boys"
+    },
+    "3": {
+      "0": {
+        "type": "tops",
+        "fit": [],
+        "guide": ["<h3>chest</h3><p>Measure a loop under your child’s armpits, passing the tape across the fullest part of the chest and around the shoulder blades.</p><h3>waist</h3><p>Measure a loop just above your child’s hip bone, around the natural waistline.</p>"],
+        "subtype": ["shirts", "knits"],
+        "shirts": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Age", "Height", "Weight (lbs)", "Waist", "Chest"], ["2", 2, "33-36", "27.5-30.5", 20, 19.75], ["3", 3, "36-39", "30.5-34.5", 20.5, 21], ["4", 4, "39-42", "34.5-39.5", 21, 22], ["5", 5, "42-45", "39.5-46.5", 21.5, 23], ["6", 6, "45-49", "46.5-54.5", 22, 24], ["7", 7, "49-52", "54.5-63.5", 22.5, 25.5], ["8", 8, "52-54", "63.5-70", 23, 27], ["10", 10, "55-56", "73-76", 24, 28.5], ["12", 12, "56-58", "76-80", 25, 30], ["14", 14, "58-63", "90-112", "25-27", "32-33"], ["16", 16, "64-68", "110-125", "26-28.5", "33-36"]],
+          "metric": [["Size (US)", "Age", "Height", "Weight (kgs)", "Waist", "Chest"], ["2", 2, "84-91.5", "12.5-14", 51, 50], ["3", 3, "91.5-99", "14-16", 52, 53.5], ["4", 4, "99-106", "16-18", 53.5, 56], ["5", 5, "106-114", "18-21", 54.5, 58.5], ["6", 6, "114-124.5", "21-25", 56, 61], ["7", 7, "124.5-132", "25-29", 57, 65], ["8", 8, "132-137", "29-32", 58.5, 68.5], ["10", 10, "137-142", "33-34.5", 61, 72.5], ["12", 12, "142-147.5", "34.5-36.5", 63.5, 76], ["14", 14, "147.5-160", "41-51", "63.5-68.5", "81-84"], ["16", 16, "162-173", "49-58", "67-71", "84-94"]]
+        },
+        "knits": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Age", "Height", "Weight (lbs)", "Waist", "Chest"], ["2", 2, "33-36", "27.5-30.5", 20, 19.75], ["3", 3, "36-39", "30.5-34.5", 20.5, 21], ["4-5", "4-5", "39-42", "34.5-46.5", "21-21.5", "22-23"], ["6-7", "6-7", "44-49", "46.5-63.5", "22-22.5", "24-25.5"], ["8", 8, "49-51", "63.5-70", 23, 27], ["10", 10, "51-53", "73-76", 24, 28], ["12", 12, "53-57", "76-86", 25.5, 30], ["14", 14, "57-63", "90-112", "25-27", 32], ["16", 16, "64-68", "110-130", "26-28", "33-37"]],
+          "metric": [["Size (US)", "Age", "Height", "Weight (kgs)", "Waist", "Chest"], ["2", 2, "84-91.5", "12.5-14", 51, 50], ["3", 3, "91.5-99", "14-16", 52, 53.5], ["4-5", "4-5", "99-112", "16-21", "53.5-54.5", "56-58.5"], ["6-7", "6-7", "112-124.5", "21-29", "56-57", "61-65"], ["8", 8, "124.5-129.5", "29-32", 58.5, 68.5], ["10", 10, "129.5-134.5", "33-34.5", 61, 71], ["12", 12, "134.5-145", "34.5-36.5", 65, 76], ["14", 14, "145-160", "41-51", "63.5-68.5", 81], ["16", 16, "162-173", "49-58", "66-71", "84-94"]]
+        },
+        "conversion": []
+      },
+      "1": {
+        "type": "bottoms",
+        "fit": [],
+        "guide": ["<h3>seat</h3><p>Measure a loop around the widest part of your child’s seat (with diapers, if applicable).</p><h3>waist</h3><p>Measure a loop just above your child’s hip bone, around the natural waistline.</p><h3>inseam</h3><p>Measure your child’s best-fitting pants, from the crotch to the inside hem. (Note: You can also measure your child from the crotch to the floor and subtract one inch.)</p>"],
+        "subtype": ["bottoms"],
+        "bottoms": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Age", "Height", "Weight (lbs)", "Waist", "Seat"], ["2", 2, "33-36", "27.5-30.5", 20, 21], ["3", 3, "36-39", "30.5-34.5", 20.5, 22], ["4", 4, "39-42", "34.5-39.5", 21, 23], ["5", 5, "42-44", "39.5-46.5", 21.5, 24], ["6", 6, "44-47", "46.5-54.5", 22, 25], ["7", 7, "47-49", "54.5-63.5", 22.5, 26], ["8", 8, "49-51", "63.5-70", 23, 27], ["10", 10, "51-53", "73-76", 24, 28], ["12", 12, "53-57", "76-86", 25.5, 30], ["14", 14, "57-63", "90-112", 27, 33], ["16", 16, "64-68", "110-130", "26.5-28", "34-36"]],
+          "metric": [["Size (US)", "Age", "Height", "Weight (kgs)", "Waist", "Seat"], ["2", 2, "84-91.5", "12.5-14", 51, 53.5], ["3", 3, "91.5-99", "14-16", 52, 56], ["4", 4, "99-106", "16-18", 53.5, 58.5], ["5", 5, "106-112", "18-21", 54.5, 61], ["6", 6, "112-119.5", "21-25", 56, 63.5], ["7", 7, "119.5-124.5", "25-29", 57, 66], ["8", 8, "124.5-129.5", "29-32", 58.5, 68.5], ["10", 10, "129.5-134.5", "33-34.5", 61, 71], ["12", 12, "134.5-145", "34.5-36.5", 65, 76], ["14", 14, "145-160", "41-51", 68.5, 84], ["16", 16, "162-173", "49-58", "67-71", "86-91"]]
+        },
+        "conversion": []
+      },
+      "2": {
+        "type": "shoes",
+        "fit": [],
+        "guide": ["<h3>shoes</h3><p>Measure the bottom of your child’s foot, from the back of the foot to the top of the longest toe. (Measure both feet and use the longer of the two measurements.)</p>"],
+        "subtype": ["shoes"],
+        "shoes": {
+          "subtype_text": "",
+          "nonmetric": [["Size", "Length"], ["T6", "5 1/4"], ["T7", "5 1/2"], ["K8", "5 3/4"], ["K9", "6 1/8"], ["K10", "6 1/2"], ["K11", "6 3/4"], ["K12", "7 1/8"], ["K13", "7 1/2"], ["K1", "7 3/4"], ["K2", "8 1/8"], ["K3", "8 1/2"], ["K4", "8 3/4"], ["K5", "9 1/8"], ["K6", "9 1/2"], ["K7", "9 3/4"]],
+          "metric": [["Size", "Length"], ["T6", 13.5], ["T7", 14], ["K8", 14.5], ["K9", 15.5], ["K10", 16.5], ["K11", 17], ["K12", 18], ["K13", 19], ["K1", 19.5], ["K2", 20.5], ["K3", 21.5], ["K4", 22], ["K5", 23], ["K6", 24], ["K7", 25]]
+        },
+        "conversion": ["shoes_conversion"],
+        "shoes_conversion": {
+          "text": "shoes",
+          "table": [["Size", "US", "UK", "EU"], ["T6", 6, "5.5-6", 22], ["T7", 7, "6-6.5", 23], ["K8", 8, "7-7.5", "24-25"], ["K9", 9, 8, "25-26"], ["K10", 10, 9, "26-27"], ["K11", 11, 10, "27-28"], ["K12", 12, 11, "29-30"], ["K13", 13, 12, 31], ["K1", 1, 13, 32], ["K2", 2, 1, "33-34"], ["K3", 3, 2, "34-35"], ["K4", 4, 3, 36], ["K5", 5, 4, 37], ["K6", 6, 5, 38], ["K7", 7, 6, 39]]
+        }
+      },
+      "3": {
+        "type": "accessories",
+        "fit": [],
+        "guide": [],
+        "subtype": ["hats"],
+        "hats": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Head size", "Age"], ["S/M", 20, "2-6/7"], ["L/XL", 21, "8-14"]],
+          "metric": [["Size (US)", "Head size", "Age"], ["S/M", 52.5, "2-6/7"], ["L/XL", 55, "8-14"]]
+        },
+        "conversion": ["socks_conversion", "tights_conversion", "belts_conversion", "gloves_conversion"],
+        "socks_conversion": {
+          "text": "socks",
+          "table": [["Size (US)", "Shoe Size"], ["XS", ["T4", "T7"]], ["S", ["K8", "K12"]], ["M", ["K13", "K2"]], ["L", ["K3", "K5"]], ["XL", ["K6", "K7"]]]
+        },
+        "tights_conversion": {
+          "text": "tights",
+          "table": [["Size (US)", "Height", "Weight (lbs)"], ["XXS/XS", "36\"-45\"", "28-44"], ["S", "45\"-53\"", "44-53"], ["M/L", "53\"-57\"", "52-72"], ["XL/XXL", "57\"-65\"", "72-100"]]
+        },
+        "belts_conversion": {
+          "text": "belts",
+          "table": [["Size (US)", "Belt Size", "Belt Size"], ["2-3", "S", "S/M"], ["4-7", "M", "S/M"], ["8-10", "L", "L/XL"], ["12-14", "----", "L/XL"]]
+        },
+        "gloves_conversion": {
+          "text": "gloves",
+          "table": [["Size (US)", "Height", "Age"], ["S", "7", "2-4/5"], ["M", "7 3/4", "6/7-10"], ["L", "8 1/2", "12-14"]]
+        }
+      },
+      "4": {
+        "type": "dresses",
+        "fit": [],
+        "guide": ["<h3>chest</h3><p>Measure a loop under your child’s armpits, passing the tape across the fullest part of the chest and around the shoulder blades.</p><h3>torso</h3><p>Measure a loop from your child’s shoulder, at the base of the neck, down the front of the body to the crotch and back up the other side.</p><h3>waist</h3><p>Measure a loop just above your child’s hip bone, around the natural waistline.</p>"],
+        "subtype": ["dresses"],
+        "dresses": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Age", "Height", "Weight (lbs)", "Waist", "Chest"], ["2", 2, "33-36", "27.5-30.5", 20, 19.75], ["3", 3, "36-39", "30.5-34.5", 20.5, 21], ["4", 4, "39-42", "34.5-39.5", 21, 22], ["5", 5, "42-45", "39.5-46.5", 21.5, 23], ["6", 6, "45-49", "46.5-54.5", 22, 24], ["7", 7, "49-52", "54.5-63.5", 22.5, 25.5], ["8", 8, "52-54", "63.5-70", 23, 27], ["10", 10, "55-56", "73-76", 24, 28.5], ["12", 12, "56-58", "76-80", 25, 30], ["14", 14, "58-63", "90-112", "25-27", "32-33"], ["16", 16, "64-68", "110-125", "26-28.5", "33-36"]],
+          "metric": [["Size (US)", "Age", "Height", "Weight (kgs)", "Waist", "Chest"], ["2", 2, "84-91.5", "12.5-14", 51, 50], ["3", 3, "91.5-99", "14-16", 52, 53.5], ["4", 4, "99-106", "16-18", 53.5, 56], ["5", 5, "106-114", "18-21", 54.5, 58.5], ["6", 6, "114-124.5", "21-25", 56, 61], ["7", 7, "124.5-132", "25-29", 57, 65], ["8", 8, "132-137", "29-32", 58.5, 68.5], ["10", 10, "137-142", "33-34.5", 61, 72.5], ["12", 12, "142-147.5", "34.5-36.5", 63.5, 76], ["14", 14, "147.5-160", "41-51", "63.5-68.5", "81-84"], ["16", 16, "162-173", "49-58", "67-71", "84-94"]]
+        },
+        "conversion": []
+      },
+      "5": {
+        "type": "outerwear",
+        "fit": [],
+        "guide": ["<h3>waist</h3><p>Measure a loop just above your child's hip bone, around the natural waistline.</p><h3>CHEST</h3><p>Measure a loop under your child's armpits, passing the tape across the fullest part of the chest and around the shoulder blades.</p>"],
+        "subtype": ["outerwear"],
+        "outerwear": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Age", "Height", "Weight (lbs)", "Waist", "Chest"], ["2", 2, "33-36", "27.5-30.5", 20, 19.75], ["3", 3, "36-39", "30.5-34.5", 20.5, 21], ["4-5", "4-5", "39-42", "34.5-46.5", "21-21.5", "22-23"], ["6-7", "6-7", "44-49", "46.5-63.5", "22-22.5", "24-25.5"], ["8", 8, "49-51", "63.5-70", 23, 27], ["10", 10, "51-53", "73-76", 24, 28], ["12", 12, "53-57", "76-86", 25.5, 30], ["14", 14, "57-63", "90-112", "25-27", 32], ["16", 16, "64-68", "110-130", "26-28", "33-37"]],
+          "metric": [["Size (US)", "Age", "Height", "Weight (kgs)", "Waist", "Chest"], ["2", 2, "84-91.5", "12.5-14", 51, 50], ["3", 3, "91.5-99", "14-16", 52, 53.5], ["4-5", "4-5", "99-112", "16-21", "53.5-54.5", "56-58.5"], ["6-7", "6-7", "112-124.5", "21-29", "56-57", "61-65"], ["8", 8, "124.5-129.5", "29-32", 58.5, 68.5], ["10", 10, "129.5-134.5", "33-34.5", 61, 71], ["12", 12, "134.5-145", "34.5-36.5", 65, 76], ["14", 14, "145-160", "41-51", "63.5-68.5", 81], ["16", 16, "162-173", "49-58", "66-71", "84-94"]]
+        },
+        "conversion": []
+      },
+      "6": {
+        "type": "swim",
+        "fit": [],
+        "guide": ["<h3>chest</h3><p>Measure a loop under your child’s armpits, passing the tape across the fullest part of the chest and around the shoulder blades.</p><h3>seat</h3><p>Measure a loop around the widest part of your child’s seat (with diapers, if applicable).</p><h3>torso</h3><p>Measure a loop from your child’s shoulder, at the base of the neck, down the front of the body to the crotch and back up the other side.</p><h3>waist</h3><p>Measure a loop just above your child’s hip bone, around the natural waistline.</p>"],
+        "subtype": ["swim"],
+        "swim": {
+          "subtype_text": "",
+          "nonmetric": [["Size (US)", "Age", "Height", "Weight (lbs)", "Waist", "Chest"], ["2", 2, "33-36", "27.5-30.5", 20, 19.75], ["3", 3, "36-39", "30.5-34.5", 20.5, 21], ["4-5", "4-5", "39-45", "34.5-46.5", "21-21.5", "22-23"], ["6-7", "6-7", "45-52", "46.5-63.5", "22-22.5", "24-25.5"], ["8", 8, "52-54", "63.5-70", 23, 27], ["10", 10, "55-56", "73-76", 24, 28.5], ["12", 12, "56-58", "76-80", 25, 30], ["14", 14, "58-63", "90-112", "25-27", "32-33"], ["16", 16, "64-68", "110-125", "26-28.5", "33-36"]],
+          "metric": [["Size (US)", "Age", "Height", "Weight (kgs)", "Waist", "Chest"], ["2", 2, "84-91.5", "12.5-14", 51, 50], ["3", 3, "91.5-99", "14-16", 52, 53.5], ["4-5", "4-5", "99-114", "16-21", "53.5-54.5", "56-58.5"], ["6-7", "6-7", "114-132", "21-29", "56-57", "61-65"], ["8", 8, "132-137", "29-32", 58.5, 68.5], ["10", 10, "137-142", "33-34.5", 61, 72.5], ["12", 12, "142-147.5", "34.5-36.5", 63.5, 76], ["14", 14, "147.5-160", "41-51", "63.5-68.5", "81-84"], ["16", 16, "162-173", "49-58", "67-71", "84-94"]]
+        },
+        "conversion": []
+      },
+      "category": "girls"
+    }
+  }
+}

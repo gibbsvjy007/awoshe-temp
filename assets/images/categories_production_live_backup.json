@@ -1,0 +1,394 @@
+{
+  "categories": {
+    "DCewWrdVu4jLCW1Bryv1": {
+      "parentName": "men",
+      "parent": "eD5xR82mUEYdbSK04dtI",
+      "status": "active",
+      "title": "jacket",
+      "identifier": "jacket"
+    },
+
+    "kgF5VWyEc7NKEHmSYinQ": {
+      "parentName": "men",
+      "parent": "eD5xR82mUEYdbSK04dtI",
+      "status": "active",
+      "title": "shoes",
+      "identifier": "shoes"
+    },
+    "anvpqusyBbsvYBhHYwyW": {
+      "parentName": "men",
+      "parent": "eD5xR82mUEYdbSK04dtI",
+      "status": "active",
+      "title": "suits",
+      "identifier": "suits"
+    },
+    "ZXWDp8ElEHJMS9UcQkYP": {
+      "parentName": "men",
+      "parent": "eD5xR82mUEYdbSK04dtI",
+      "status": "active",
+      "title": "pants",
+      "identifier": "pants"
+    },
+    "EiuLl7CZxw0DbaWQPaSY": {
+      "parentName": "men",
+      "status": "active",
+      "title": "scandals",
+      "identifier": "scandals",
+      "parent": "eD5xR82mUEYdbSK04dtI"
+    },
+    "Lk41UUSFVwUkxgPz2WwL": {
+      "parentName": "men",
+      "status": "active",
+      "title": "swimwear",
+      "identifier": "swimwear",
+      "parent": "eD5xR82mUEYdbSK04dtI"
+    },
+    "pN0qOuTM3GNNReQG7qKU": {
+      "parentName": "men",
+      "status": "active",
+      "title": "t-shirts",
+      "identifier": "t-shirts",
+      "parent": "eD5xR82mUEYdbSK04dtI"
+    },
+    "umRHY9sz6f9DfX1z8sBU": {
+      "parentName": "men",
+      "parent": "eD5xR82mUEYdbSK04dtI",
+      "status": "active",
+      "title": "shirts",
+      "identifier": "shirts"
+    },
+
+    "0c40OHM7VE2OaUONMYGH": {
+      "parentName": "men accessories",
+      "status": "active",
+      "title": "slippers",
+      "identifier": "slippers",
+      "parent": "LCKIuU5V04UeBguIE0Xb"
+    },
+    "0nCtDpu1F7BGKhMyy01c": {
+      "parentName": "women accessories",
+      "parent": "HBQuGR1CziGHXGQyqj2p",
+      "status": "active",
+      "title": "slippers",
+      "identifier": "slippers"
+    },
+
+    "2BjstySv7S4ymFrOoBSH": {
+      "status": "active",
+      "title": "shirts",
+      "identifier": "shirts",
+      "parentName": "women",
+      "parent": "QpzSY3r8s61aixVwu7th"
+    },
+
+    "2yTE8IpPSkTnsgpxKgqH": {
+      "parentName": "women",
+      "parent": "QpzSY3r8s61aixVwu7th",
+      "status": "active",
+      "title": "t-shirts",
+      "identifier": "t-shirts"
+    },
+    "56RA40gIdS9xRGGoiNmq": {
+      "parentName": "kids",
+      "parent": "fAu71hwhwOTgpBHb8xkY",
+      "status": "active",
+      "title": "slippers",
+      "identifier": "slippers"
+    },
+    "6F4xq4qwLAcDXPdHmaDt": {
+      "parent": "fAu71hwhwOTgpBHb8xkY",
+      "status": "active",
+      "title": "head gear",
+      "identifier": "head gear",
+      "parentName": "kids"
+    },
+    "CpCvBxp2O62c4oGKneiK": {
+      "status": "active",
+      "title": "Fabric",
+      "identifier": "fabric",
+      "parent": null
+    },
+    "DKB2xRwXTAx5UOc3ItIn": {
+      "parentName": "men accessories",
+      "parent": "LCKIuU5V04UeBguIE0Xb",
+      "status": "active",
+      "title": "belts and suspenders",
+      "identifier": "belts and suspenders"
+    },
+    "DWjVTXzfdVeIzWAp9Q40": {
+      "parentName": "women",
+      "parent": "QpzSY3r8s61aixVwu7th",
+      "status": "active",
+      "title": "kaftans",
+      "Identifier": "kaftans"
+    },
+    "E6T3YhJ3AOGQ6yfbOoyx": {
+      "parentName": "women",
+      "parent": "QpzSY3r8s61aixVwu7th",
+      "status": "active",
+      "title": "suits",
+      "identifier": "suits"
+    },
+
+    "FYOwHrZVtfetKu63OOzZ": {
+      "parent": "fAu71hwhwOTgpBHb8xkY",
+      "status": "active",
+      "title": "swimwear",
+      "identifier": "swimwear",
+      "parentName": "kids"
+    },
+    "GLafD2iPtTYnGyVcpE1o": {
+      "parentName": "women",
+      "parents": "QpzSY3r8s61aixVwu7th",
+      "status": "active",
+      "title": "swimwear",
+      "identifier": "swimwear"
+    },
+    "HBQuGR1CziGHXGQyqj2p": {
+      "parent": null,
+      "status": "active",
+      "title": "Women Accessories",
+      "identifier": "women accessories"
+    },
+    "HKORq50BbiZOEfTHIrGV": {
+      "parent": "fAu71hwhwOTgpBHb8xkY",
+      "status": "active",
+      "title": "scandals",
+      "identifier": "scandals",
+      "parentName": "kids"
+    },
+    "Hjw7AGqig8UDq8qBvrdA": {
+      "parent": "HBQuGR1CziGHXGQyqj2p",
+      "status": "active",
+      "title": "bracelets",
+      "identifier": "bracelets",
+      "parentName": "women accessories"
+    },
+    "IyZu8zHtAjqUTSWa8Xef": {
+      "status": "active",
+      "title": "rings",
+      "identifier": "rings",
+      "parentName": "women accessories",
+      "parent": "HBQuGR1CziGHXGQyqj2p"
+    },
+    "JD7mjDF0NpihHh84Ym7T": {
+      "parentName": "men",
+      "parent ": "eD5xR82mUEYdbSK04dtI",
+      "status": "active",
+      "title": "jackets",
+      "identifier": "jackets"
+    },
+    "LCKIuU5V04UeBguIE0Xb": {
+      "parent": null,
+      "status": "active",
+      "title": "Men Accessories",
+      "identifier": "men accessories"
+    },
+
+    "OKPXrx2m61qRVTZXE1xU": {
+      "parentName": "kids",
+      "parent": "fAu71hwhwOTgpBHb8xkY",
+      "status": "active",
+      "title": "shoes",
+      "identifier": "shoes"
+    },
+    "QpzSY3r8s61aixVwu7th": {
+      "status": "active",
+      "title": "Women",
+      "identifier": "women",
+      "parent": null
+    },
+    "UL590OvW2bpV4wE2NQX1": {
+      "parentName": "kids",
+      "parent": "fAu71hwhwOTgpBHb8xkY",
+      "status": "active",
+      "title": "skirts",
+      "identifier": "skirts"
+    },
+    "VS4EIhu3URDWlSnV7oxK": {
+      "parent": "fAu71hwhwOTgpBHb8xkY",
+      "status": "active",
+      "title": "t-shirts",
+      "identifier": "t-shirts",
+      "parentName": "kids"
+    },
+    "VX9ywXKy0Zu4nrsBXQb8": {
+      "status": "active",
+      "title": "underwear",
+      "identifier": "underwear",
+      "parentName": "Women",
+      "parent": "QpzSY3r8s61aixVwu7th"
+    },
+    "ZM5egWfWKYuH0HkoGfVa": {
+      "parentName": "women",
+      "parent": "QpzSY3r8s61aixVwu7th",
+      "status": "active",
+      "title": "jumpsuits",
+      "identifier": "jumpsuits"
+    },
+
+    "Zxz4wqIRq3RmtDjud9CA": {
+      "parentName": "women accessories",
+      "parent": "HBQuGR1CziGHXGQyqj2p",
+      "status": "active",
+      "title": "shoes",
+      "identifier": "shoes"
+    },
+    "aBVJcmHuXZyylA54EeY4": {
+      "parent Category": "kids",
+      "parent": "fAu71hwhwOTgpBHb8xkY",
+      "status": "active",
+      "title": "jewellery",
+      "identifier": "jewellery"
+    },
+
+    "brBSYaBvksYH0A3Qm0GB": {
+      "status": "active",
+      "title": "shorts",
+      "identifier": "shorts",
+      "parentName": "women",
+      "parent": "QpzSY3r8s61aixVwu7th"
+    },
+    "bz8MzrHQ8R3AkKjOyXlR": {
+      "parentName": "women accessories",
+      "parent": "HBQuGR1CziGHXGQyqj2p",
+      "status": "active",
+      "title": "watches",
+      "identifier": "watches"
+    },
+    "clGDuOgVmd29lXIGhxOr": {
+      "parentName": "women accessories",
+      "parent": "HBQuGR1CziGHXGQyqj2p",
+      "status": "active",
+      "title": "others",
+      "identifier": "other"
+    },
+    "eD5xR82mUEYdbSK04dtI": {
+      "parent": null,
+      "status": "active",
+      "title": "Men",
+      "identifier": "men"
+    },
+    "eaIhC7hbRrDFZUSOzZxk": {
+      "parentName": "women accessories",
+      "parent": "HBQuGR1CziGHXGQyqj2p",
+      "status": "active",
+      "title": "scandals",
+      "identifier": "scandals"
+    },
+    "fAu71hwhwOTgpBHb8xkY": {
+      "parent": null,
+      "status": "active",
+      "title": "Kids",
+      "identifier": "kids"
+    },
+    "gpiySGCM4R6EcbyNQSeT": {
+      "parentName": "fabric",
+      "parent": "CpCvBxp2O62c4oGKneiK",
+      "status": "active",
+      "title": "fabric",
+      "identifier": "fabric"
+    },
+    "hBmGBAy4TK4v5nDPM4EM": {
+      "parentName": "kids",
+      "parent": "fAu71hwhwOTgpBHb8xkY",
+      "status": "active",
+      "title": "pants",
+      "identifier": "pants"
+    },
+    "hehcCmUnlIgGYcQlDdeB": {
+      "parent": "QpzSY3r8s61aixVwu7th",
+      "status": "active",
+      "title": "jackets",
+      "identifier": "jackets",
+      "parentName": "Women"
+    },
+
+    "nGLRt352VUwnBorbWsiv": {
+      "parent": "LCKIuU5V04UeBguIE0Xb",
+      "status": "active",
+      "title": "bags",
+      "identifier": "bags",
+      "parentName": "men accessories"
+    },
+    "oiKPgdYY8Xn5WYxcUs9r": {
+      "status": "active",
+      "title": "ear rings",
+      "identifier": "ear rings",
+      "parentName": "women accessories",
+      "parent": "HBQuGR1CziGHXGQyqj2p"
+    },
+
+    "ppH0gTcs11gvg0oAcMng": {
+      "parentName": "men accessories",
+      "parent": "LCKIuU5V04UeBguIE0Xb",
+      "status": "active",
+      "title": "others",
+      "identifier": "others"
+    },
+    "sLyRcbldKE4bNnRaI2Wz": {
+      "parent": "fAu71hwhwOTgpBHb8xkY",
+      "status": "active",
+      "title": "suits",
+      "identifier": "suits",
+      "parentName": "Kids"
+    },
+    "tWr6Ifjdqc7TA1imChYs": {
+      "parentName": "kids",
+      "parent": "fAu71hwhwOTgpBHb8xkY",
+      "status": "active",
+      "title": "jackets",
+      "identifier": "jackets"
+    },
+    "uKkP1FQVdsUHPs9aC9q5": {
+      "parentName": "Kids",
+      "parent": "fAu71hwhwOTgpBHb8xkY",
+      "status": "active",
+      "title": "shorts",
+      "identifier": "shorts"
+    },
+    "uhI6C8eFL2mwSo5H5CBA": {
+      "parentName": "kids",
+      "parent": "fAu71hwhwOTgpBHb8xkY",
+      "status": "active",
+      "title": "dresses",
+      "identifier": "dresses"
+    },
+    "ulM1UaYKwmXwx6acgYJr": {
+      "parentName": "women accessories",
+      "parent": "HBQuGR1CziGHXGQyqj2p",
+      "status": "active",
+      "title": "necklaces",
+      "identifier": "necklaces"
+    },
+
+    "wwFUE3HIb7xy0yNtxfsM": {
+      "parent": "QpzSY3r8s61aixVwu7th",
+      "status": "active",
+      "title": "skirts",
+      "identifier": "skirts",
+      "parentName": "women"
+    },
+    "wzqlJp5Tkw9HABttnCXa": {
+      "status": "active",
+      "title": "ties",
+      "identifier": "ties",
+      "parentName": "men accessories",
+      "parent": "LCKIuU5V04UeBguIE0Xb"
+    },
+    "xj96h86EWdnZxmgc3uI9": {
+      "parent": "fAu71hwhwOTgpBHb8xkY",
+      "status": "active",
+      "title": "shirts",
+      "identifier": "shirts",
+      "parentName": "Kids"
+    },
+    "xv3VIk3yuFM2cqZYXvQ8": {
+      "parentName": "women",
+      "parent": "QpzSY3r8s61aixVwu7th",
+      "status": "active",
+      "title": "pants",
+      "identifier": "pants"
+    }
+  }
+}
